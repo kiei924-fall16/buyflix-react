@@ -1,7 +1,7 @@
 // Use LotsMoreMovies.movies to get this data in index.js
 var lotsMoreMovies = [
   {
-    "key": 1,
+    "id": 1,
     "title": "10 Days in a Madhouse",
     "rating": "R",
     "runtime": "111 min",
@@ -12,7 +12,7 @@ var lotsMoreMovies = [
     "plot": "In 1887, at age 23, reporter Nellie Bly, working for Joseph Pulitzer, feigns mental illness to go undercover in notorious Blackwell's Island a woman's insane asylum to expose corruption, abuse and murder."
   },
   {
-    "key": 2,
+    "id": 2,
     "title": "10,000 Saints",
     "rating": "R",
     "runtime": "113 min",
@@ -23,7 +23,7 @@ var lotsMoreMovies = [
     "plot": "Set in the 1980s, a teenager from Vermont moves to New York City to live with his father in East Village."
   },
   {
-    "key": 3,
+    "id": 3,
     "title": "12 Rounds 3: Lockdown",
     "rating": "R",
     "runtime": "90 min",
@@ -34,7 +34,7 @@ var lotsMoreMovies = [
     "plot": "Lockdown Follows a police officer who returns to duty after recovering from a gun shot wound to discover incriminating evidence of illegal activities against those closest to him. He ..."
   },
   {
-    "key": 4,
+    "id": 4,
     "title": "5 Flights Up",
     "rating": "PG-13",
     "runtime": "92 min",
@@ -45,7 +45,7 @@ var lotsMoreMovies = [
     "plot": "A long-time married couple who've spent their lives together in the same New York apartment become overwhelmed by personal and real estate-related issues when they plan to move away."
   },
   {
-    "key": 5,
+    "id": 5,
     "title": "90 Minutes in Heaven",
     "rating": "PG-13",
     "runtime": "121 min",
@@ -56,7 +56,7 @@ var lotsMoreMovies = [
     "plot": "A man involved in a horrific car crash is pronounced dead, only to come back to life an hour and a half later, claiming to have seen Heaven."
   },
   {
-    "key": 6,
+    "id": 6,
     "title": "99 Homes",
     "rating": "R",
     "runtime": "112 min",
@@ -67,7 +67,7 @@ var lotsMoreMovies = [
     "plot": "A recently unemployed single father struggles to get back his foreclosed home by working for the real estate broker who is the source of his frustration."
   },
   {
-    "key": 7,
+    "id": 7,
     "title": "A Girl Like Her",
     "rating": "PG-13",
     "runtime": "91 min",
@@ -78,7 +78,7 @@ var lotsMoreMovies = [
     "plot": "Jessica Burns enlists the help of her best friend, Brian, in order to document the relentless harassment she's received from her former friend, Avery Keller, one of South Brookdale High School's most popular students."
   },
   {
-    "key": 8,
+    "id": 8,
     "title": "A Horse for Summer",
     "rating": "PG",
     "runtime": "96 min",
@@ -89,7 +89,7 @@ var lotsMoreMovies = [
     "plot": "When a family emergency forces a troubled teen to do the wrong thing for the right reason, a community discovers the meaning of forgiveness."
   },
   {
-    "key": 9,
+    "id": 9,
     "title": "A Horse Tale",
     "rating": "G",
     "runtime": "85 min",
@@ -100,7 +100,7 @@ var lotsMoreMovies = [
     "plot": "Uptight city accountant Michael Thompson is hired to help a family save their stable before the bank shuts them down. Michael reluctantly agrees, but as he searches for ways to save a family's legacy, he finds something he never expected."
   },
   {
-    "key": 10,
+    "id": 10,
     "title": "A Murder in the Park",
     "rating": "PG-13",
     "runtime": "91 min",
@@ -111,7 +111,7 @@ var lotsMoreMovies = [
     "plot": "Documentary filmmakers assert that Anthony Porter - a former death-row inmate who was spared the death penalty thanks to the efforts of a college journalism program - was actually guilty, and an innocent man was sent to prison."
   },
   {
-    "key": 11,
+    "id": 11,
     "title": "A Short History of Decay",
     "rating": "R",
     "runtime": "94 min",
@@ -122,7 +122,7 @@ var lotsMoreMovies = [
     "plot": "A comedy from an original script by Michael Maren, about a failed Brooklyn writer, Nathan Fisher, played by Bryan Greenberg, who visits his ailing parents in Florida. His mother (Lavin) has..."
   },
   {
-    "key": 12,
+    "id": 12,
     "title": "A Walk in the Woods",
     "rating": "R",
     "runtime": "104 min",
@@ -133,7 +133,7 @@ var lotsMoreMovies = [
     "plot": "After spending two decades in England, Bill Bryson returns to the U.S., where he decides the best way to connect with his homeland is to hike the Appalachian Trail with one of his oldest friends."
   },
   {
-    "key": 13,
+    "id": 13,
     "title": "Adult Beginners",
     "rating": "R",
     "runtime": "92 min",
@@ -144,7 +144,7 @@ var lotsMoreMovies = [
     "plot": "A young, narcissistic entrepreneur crashes and burns on the eve of his company's big launch. With his entire life in total disarray, he leaves Manhattan to move in with his estranged ..."
   },
   {
-    "key": 14,
+    "id": 14,
     "title": "Against the Sun",
     "rating": "PG",
     "runtime": "100 min",
@@ -155,7 +155,7 @@ var lotsMoreMovies = [
     "plot": "A WWII pilot, bombardier, and radioman find themselves adrift on a lifeboat without food or water after being forced to ditch their plane during a scouting mission."
   },
   {
-    "key": 16,
+    "id": 16,
     "title": "Alex of Venice",
     "rating": "R",
     "runtime": "86 min",
@@ -166,7 +166,7 @@ var lotsMoreMovies = [
     "plot": "A workaholic attorney is forced to reinvent her life after her husband suddenly leaves."
   },
   {
-    "key": 17,
+    "id": 17,
     "title": "Aliens: Zone-X",
     "rating": "PG-13",
     "runtime": "113 min",
@@ -177,7 +177,7 @@ var lotsMoreMovies = [
     "plot": "Park Ranger Don Morgan is torn from his routine life, when he stumbles upon a UFO visitation in the arid, deserted Park Area where he resides. An inexplicable, bizarre power outage knocks ..."
   },
   {
-    "key": 19,
+    "id": 19,
     "title": "Alvin and the Chipmunks: The Road Chip",
     "rating": "PG",
     "runtime": "92 min",
@@ -188,7 +188,7 @@ var lotsMoreMovies = [
     "plot": "Through a series of misunderstandings, Alvin, Simon and Theodore come to believe that Dave is going to propose to his new girlfriend in Miami...and dump them. They have three days to get to him and stop the proposal, saving themselves not only from losing Dave but possibly from gaining a terrible stepbrother."
   },
   {
-    "key": 20,
+    "id": 20,
     "title": "Always Watching: A Marble Hornets Story",
     "rating": "R",
     "runtime": "92 min",
@@ -199,7 +199,7 @@ var lotsMoreMovies = [
     "plot": "A small town news team discovers a box of video tapes where a faceless figure dressed in a dark suit, haunts and torments a family... slowly driving them insane. Soon after, they realize that the \"Operator\" has begun to stalk them as well."
   },
   {
-    "key": 22,
+    "id": 22,
     "title": "Americons",
     "rating": "R",
     "runtime": "88 min",
@@ -210,7 +210,7 @@ var lotsMoreMovies = [
     "plot": "Raving through realty on the eve of the economic collapse. A high-velocity journey of an unsuspecting mortgage broker swallowed up in the sex, greed and over indulgence of the mid 2000's Real Estate boom."
   },
   {
-    "key": 23,
+    "id": 23,
     "title": "An Open Secret",
     "rating": "PG-13",
     "runtime": "99 min",
@@ -221,7 +221,7 @@ var lotsMoreMovies = [
     "plot": "An investigation into accusations of teenagers being sexually abused within the film industry."
   },
   {
-    "key": 25,
+    "id": 25,
     "title": "Area 51",
     "rating": "R",
     "runtime": "91 min",
@@ -232,7 +232,7 @@ var lotsMoreMovies = [
     "plot": "Three young conspiracy theorists attempt to uncover the mysteries of Area 51, the government's secret location rumored to have hosted encounters with alien beings. What they find at this hidden facility exposes unimaginable secrets."
   },
   {
-    "key": 26,
+    "id": 26,
     "title": "Ashby",
     "rating": "R",
     "runtime": "100 min",
@@ -243,7 +243,7 @@ var lotsMoreMovies = [
     "plot": "High-school student Ed Wallis enters into a friendship with his neighbor, Ashby, a retired CIA assassin who only has a few months left to live."
   },
   {
-    "key": 27,
+    "id": 27,
     "title": "Assassin's Game",
     "rating": "R",
     "runtime": "83 min",
@@ -254,7 +254,7 @@ var lotsMoreMovies = [
     "plot": "When a team of assassins botches a hit, legendary hitman Vet Jones gets an ultimatum from his former boss - kill the target or his son dies."
   },
   {
-    "key": 28,
+    "id": 28,
     "title": "Asylum",
     "rating": "R",
     "runtime": "93 min",
@@ -265,7 +265,7 @@ var lotsMoreMovies = [
     "plot": "A veteran hostage negotiator's next call leads him to an overrun insane asylum. He soon finds that dark forces are pushing the patients to commit atrocities, and he may be the only one that can stop them."
   },
   {
-    "key": 29,
+    "id": 29,
     "title": "Avengers: Age of Ultron",
     "rating": "PG-13",
     "runtime": "141 min",
@@ -276,7 +276,7 @@ var lotsMoreMovies = [
     "plot": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
   },
   {
-    "key": 30,
+    "id": 30,
     "title": "Awaken",
     "rating": "R",
     "runtime": "89 min",
@@ -287,7 +287,7 @@ var lotsMoreMovies = [
     "plot": "A random group of people wake up on an Island where they are being hunted down in a sinister plot to harvest their organs."
   },
   {
-    "key": 31,
+    "id": 31,
     "title": "AWOL-72",
     "rating": "R",
     "runtime": "82 min",
@@ -298,7 +298,7 @@ var lotsMoreMovies = [
     "plot": "An AWOL marine in possession of secret government information, is a wanted man, pursued by Russian special ops, the LAPD, and a dangerous assassin."
   },
   {
-    "key": 32,
+    "id": 32,
     "title": "Bad Ass 3: Bad Asses on the Bayou",
     "rating": "R",
     "runtime": "85 min",
@@ -309,7 +309,7 @@ var lotsMoreMovies = [
     "plot": "Frank Vega and Bernie Pope return, this time to Louisiana in an attempt to find a kidnapped friend."
   },
   {
-    "key": 33,
+    "id": 33,
     "title": "Balls Out",
     "rating": "R",
     "runtime": "100 min",
@@ -320,7 +320,7 @@ var lotsMoreMovies = [
     "plot": "With marriage, graduation, and the real world looming on the horizon, fifth year senior Caleb Fuller reassembles the ol' team of misfits for one last epic run in Intramural football."
   },
   {
-    "key": 34,
+    "id": 34,
     "title": "Barely Lethal",
     "rating": "PG-13",
     "runtime": "96 min",
@@ -331,7 +331,7 @@ var lotsMoreMovies = [
     "plot": "A teenage special ops agent coveting a \"normal\" adolescence fakes her own death and enrolls in a suburban high school. She quickly learns that surviving the treacherous waters of high school is more challenging than international espionage."
   },
   {
-    "key": 35,
+    "id": 35,
     "title": "Bastard",
     "rating": "R",
     "runtime": "82 min",
@@ -342,7 +342,7 @@ var lotsMoreMovies = [
     "plot": "Five strangers - newlywed serial killers, a suicidal cop, and two runaways - become suspect and victim when a masked murderer makes its presence known in an isolated mountain town."
   },
   {
-    "key": 36,
+    "id": 36,
     "title": "Batkid Begins",
     "rating": "PG",
     "runtime": "87 min",
@@ -353,7 +353,7 @@ var lotsMoreMovies = [
     "plot": "On one day, in one city, the world comes together to grant one 5 year old cancer patient his wish. Batkid Begins looks at the 'why' of this flash phenomenon."
   },
   {
-    "key": 38,
+    "id": 38,
     "title": "Beanstalk",
     "rating": "PG",
     "runtime": "78 min",
@@ -364,7 +364,7 @@ var lotsMoreMovies = [
     "plot": "A young boy finds a crate of green beans. When they're planted, they grow a beanstalk to the clouds, where a castle of giants are habited."
   },
   {
-    "key": 39,
+    "id": 39,
     "title": "Before We Go",
     "rating": "PG-13",
     "runtime": "95 min",
@@ -375,7 +375,7 @@ var lotsMoreMovies = [
     "plot": "Two strangers stuck in Manhattan for the night grow into each other's most trusted confidants when an evening of unexpected adventure forces them to confront their fears and take control of their lives."
   },
   {
-    "key": 40,
+    "id": 40,
     "title": "Believe Me",
     "rating": "PG-13",
     "runtime": "93 min",
@@ -386,7 +386,7 @@ var lotsMoreMovies = [
     "plot": "Desperate, broke, and out of ideas, four college seniors start a fake charity to embezzle money for tuition."
   },
   {
-    "key": 41,
+    "id": 41,
     "title": "Best of Enemies",
     "rating": "R",
     "runtime": "87 min",
@@ -397,7 +397,7 @@ var lotsMoreMovies = [
     "plot": "A documentary on the series of televised debates in 1968 between liberal Gore Vidal and conservative William F. Buckley."
   },
   {
-    "key": 42,
+    "id": 42,
     "title": "Beyond the Mask",
     "rating": "PG",
     "runtime": "103 min",
@@ -408,7 +408,7 @@ var lotsMoreMovies = [
     "plot": "A British East India Trading Company assassin seeks to redeem his past by thwarting a plot against a young nation's hope for freedom."
   },
   {
-    "key": 43,
+    "id": 43,
     "title": "Beyond the Reach",
     "rating": "R",
     "runtime": "91 min",
@@ -419,7 +419,7 @@ var lotsMoreMovies = [
     "plot": "A high-rolling corporate shark and his impoverished young guide play the most dangerous game during a hunting trip in the Mojave Desert."
   },
   {
-    "key": 44,
+    "id": 44,
     "title": "Big Stone Gap",
     "rating": "PG-13",
     "runtime": "103 min",
@@ -430,7 +430,7 @@ var lotsMoreMovies = [
     "plot": "In a small town nestled in the Appalachian Mountains of Virginia, self-proclaimed spinster Ave Maria Mulligan finds her life shaken up and forever changed after learning a long-buried family secret."
   },
   {
-    "key": 45,
+    "id": 45,
     "title": "Black Beauty",
     "rating": "PG",
     "runtime": "86 min",
@@ -441,7 +441,7 @@ var lotsMoreMovies = [
     "plot": "Black Beauty, a film centering on a 15 year-old girl who volunteers at a city pound, and convinces her Grandfather in the country to adopt a horse that was rescued from an abusive owner. ..."
   },
   {
-    "key": 46,
+    "id": 46,
     "title": "Black or White",
     "rating": "PG-13",
     "runtime": "121 min",
@@ -452,7 +452,7 @@ var lotsMoreMovies = [
     "plot": "A grieving widower is drawn into a custody battle over his granddaughter, whom he helped raise her entire life."
   },
   {
-    "key": 47,
+    "id": 47,
     "title": "Blackbird",
     "rating": "R",
     "runtime": "99 min",
@@ -463,7 +463,7 @@ var lotsMoreMovies = [
     "plot": "A young singer struggles with his sexuality and the treatment of others while coming of age in a small Southern Baptist community."
   },
   {
-    "key": 48,
+    "id": 48,
     "title": "Blue Caprice",
     "rating": "R",
     "runtime": "93 min",
@@ -474,7 +474,7 @@ var lotsMoreMovies = [
     "plot": "An abandoned boy is lured to America and drawn into the shadow of a dangerous father figure. Inspired by the real life events that led to the 2002 Beltway sniper attacks."
   },
   {
-    "key": 49,
+    "id": 49,
     "title": "Boulevard",
     "rating": "R",
     "runtime": "88 min",
@@ -485,7 +485,7 @@ var lotsMoreMovies = [
     "plot": "A devoted husband in a marriage of convenience is forced to confront his secret life."
   },
   {
-    "key": 50,
+    "id": 50,
     "title": "Break Point",
     "rating": "R",
     "runtime": "90 min",
@@ -496,7 +496,7 @@ var lotsMoreMovies = [
     "plot": "Two estranged brothers reunite to make an improbable run at a grand slam tennis tournament."
   },
   {
-    "key": 51,
+    "id": 51,
     "title": "Broken Horses",
     "rating": "R",
     "runtime": "101 min",
@@ -507,7 +507,7 @@ var lotsMoreMovies = [
     "plot": "The bonds of brotherhood, the laws of loyalty, and the futility of violence in the shadows of the US Mexico border gang wars."
   },
   {
-    "key": 52,
+    "id": 52,
     "title": "Brother's Keeper",
     "rating": "PG-13",
     "runtime": "118 min",
@@ -518,7 +518,7 @@ var lotsMoreMovies = [
     "plot": "Identical twins Andy and Pete Goodwynn have always been there for each other. But in a cruel twist of fate-orchestrated by the town's most powerful family-their lives are forever altered. ..."
   },
   {
-    "key": 53,
+    "id": 53,
     "title": "Brotherly Love",
     "rating": "R",
     "runtime": 0,
@@ -529,7 +529,7 @@ var lotsMoreMovies = [
     "plot": "Set on the backdrop of Philadelphia's famed Overbrook High School, we track the lives of the nations number one high school basketball player Sergio Taylor as he deals with the early pressures of hood fame."
   },
   {
-    "key": 54,
+    "id": 54,
     "title": "Burying the Ex",
     "rating": "R",
     "runtime": "89 min",
@@ -540,7 +540,7 @@ var lotsMoreMovies = [
     "plot": "A guy's regrets over moving in with his girlfriend are compounded when she dies and comes back as a zombie."
   },
   {
-    "key": 55,
+    "id": 55,
     "title": "Captive",
     "rating": "PG-13",
     "runtime": "97 min",
@@ -551,7 +551,7 @@ var lotsMoreMovies = [
     "plot": "A single mother struggling with drug addiction is taken hostage in her own apartment by a man on the run who has broken out of jail and murdered the judge assigned to his case."
   },
   {
-    "key": 56,
+    "id": 56,
     "title": "Carter High",
     "rating": "PG-13",
     "runtime": "110 min",
@@ -562,7 +562,7 @@ var lotsMoreMovies = [
     "plot": "During the 1980s Carter High School in Dallas, Texas was a football powerhouse. This is the story of four of the student athletes whose off the field activities cost them their future."
   },
   {
-    "key": 57,
+    "id": 57,
     "title": "Cavemen",
     "rating": "R",
     "runtime": "88 min",
@@ -573,7 +573,7 @@ var lotsMoreMovies = [
     "plot": "Cavemen is a comedic film with a slight edge of drama revolving around the lives of somewhat single, somewhat unemployed guys living in a warehouse converted to living quarters in the '..."
   },
   {
-    "key": 58,
+    "id": 58,
     "title": "Chain of Command",
     "rating": "R",
     "runtime": "88 min",
@@ -584,7 +584,7 @@ var lotsMoreMovies = [
     "plot": "After finding his brother murdered after returning from duty, Webster searches for the perpetrators, but discovers a conspiracy that cuts deep inside the U.S. government."
   },
   {
-    "key": 59,
+    "id": 59,
     "title": "Childless",
     "rating": "R",
     "runtime": "90 min",
@@ -595,7 +595,7 @@ var lotsMoreMovies = [
     "plot": "Katherine is a typical teenager. Today's her funeral. The four adults in her life have a lot on their mind - and it's not all about Katherine either. With a frankness that's strikingly disarming as well as frequently self-serving, the grown-ups struggle with being... well... grown-up."
   },
   {
-    "key": 60,
+    "id": 60,
     "title": "Chocolate City",
     "rating": "R",
     "runtime": "91 min",
@@ -606,7 +606,7 @@ var lotsMoreMovies = [
     "plot": "Life for a struggling college student changes in an instant when he meets the owner of a male strip club who convinces him to give amateur night a whirl."
   },
   {
-    "key": 61,
+    "id": 61,
     "title": "Christian Mingle",
     "rating": "PG",
     "runtime": "103 min",
@@ -617,7 +617,7 @@ var lotsMoreMovies = [
     "plot": "Gwyneth Hayden has it all. A top-notch career, killer wardrobe, dream apartment, and great friends - she thinks the only thing missing is a man. In a moment of inspired desperation, she ..."
   },
   {
-    "key": 62,
+    "id": 62,
     "title": "Christmas Eve",
     "rating": "PG",
     "runtime": "95 min",
@@ -628,7 +628,7 @@ var lotsMoreMovies = [
     "plot": "Hilarity, romance, and transcendence prevail after a power outage traps six different groups of New Yorkers inside elevators on Christmas Eve."
   },
   {
-    "key": 63,
+    "id": 63,
     "title": "Christmas Oranges",
     "rating": "PG",
     "runtime": "101 min",
@@ -639,7 +639,7 @@ var lotsMoreMovies = [
     "plot": "Experience the journey of Rose, an orphan who teaches the meaning of hope to all those around her. Share a slice of Christmas sweetened with friendship in this poignant story based on a classic holiday tale."
   },
   {
-    "key": 64,
+    "id": 64,
     "title": "Clonehunter",
     "rating": "R",
     "runtime": "85 min",
@@ -650,7 +650,7 @@ var lotsMoreMovies = [
     "plot": "2525 A.D. Man has colonized the stars. The wealthy and powerful implant their brains in cloned versions of themselves to gain immortality. As a side-effect, occasionally a clone develops ..."
   },
   {
-    "key": 65,
+    "id": 65,
     "title": "Club Life",
     "rating": "R",
     "runtime": "87 min",
@@ -661,7 +661,7 @@ var lotsMoreMovies = [
     "plot": "A night club promoter tries to make a name for himself in New York City."
   },
   {
-    "key": 66,
+    "id": 66,
     "title": "Cooties",
     "rating": "R",
     "runtime": "88 min",
@@ -672,7 +672,7 @@ var lotsMoreMovies = [
     "plot": "A mysterious virus hits an isolated elementary school, transforming the kids into a feral swarm of mass savages. An unlikely hero must lead a motley band of teachers in the fight of their lives."
   },
   {
-    "key": 67,
+    "id": 67,
     "title": "Cop Car",
     "rating": "R",
     "runtime": "88 min",
@@ -683,7 +683,7 @@ var lotsMoreMovies = [
     "plot": "A small town sheriff sets out to find the two kids who have taken his car on a joy ride."
   },
   {
-    "key": 68,
+    "id": 68,
     "title": "Creative Control",
     "rating": "R",
     "runtime": "97 min",
@@ -694,7 +694,7 @@ var lotsMoreMovies = [
     "plot": "In near future Brooklyn, an ad executive uses a new Augmented Reality technology to conduct an affair with his best friend's girlfriend...sort of."
   },
   {
-    "key": 69,
+    "id": 69,
     "title": "Creed",
     "rating": "PG-13",
     "runtime": "133 min",
@@ -705,7 +705,7 @@ var lotsMoreMovies = [
     "plot": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed."
   },
   {
-    "key": 70,
+    "id": 70,
     "title": "Creep",
     "rating": "R",
     "runtime": "82 min",
@@ -716,7 +716,7 @@ var lotsMoreMovies = [
     "plot": "When a videographer answers a Craigslist ad for a one-day job in a remote mountain town, he finds his client is not at all what he initially seems."
   },
   {
-    "key": 71,
+    "id": 71,
     "title": "Cut Bank",
     "rating": "R",
     "runtime": "93 min",
@@ -727,7 +727,7 @@ var lotsMoreMovies = [
     "plot": "A young man's life is unraveled after witnessing a murder that he filmed in his rural town of Cut Bank."
   },
   {
-    "key": 72,
+    "id": 72,
     "title": "Cymbeline",
     "rating": "R",
     "runtime": "98 min",
@@ -738,7 +738,7 @@ var lotsMoreMovies = [
     "plot": "A gritty story of a take-no-prisoners war between dirty cops and an outlaw biker gang. A drug kingpin is driven to desperate measures."
   },
   {
-    "key": 74,
+    "id": 74,
     "title": "Dancin' It's On",
     "rating": "PG",
     "runtime": "89 min",
@@ -749,7 +749,7 @@ var lotsMoreMovies = [
     "plot": "This coming of age Dance Film, in the spirit of Dirty Dancing, Karate Kid, and High School Musical - is about a young girl from Beverly Hills, Jennifer who is visiting her Father's Panama ..."
   },
   {
-    "key": 75,
+    "id": 75,
     "title": "Danny Collins",
     "rating": "R",
     "runtime": "106 min",
@@ -760,7 +760,7 @@ var lotsMoreMovies = [
     "plot": "An aging rock star decides to change his life when he discovers a 40-year-old letter written to him by John Lennon."
   },
   {
-    "key": 76,
+    "id": 76,
     "title": "David and Goliath",
     "rating": "PG",
     "runtime": "92 min",
@@ -771,7 +771,7 @@ var lotsMoreMovies = [
     "plot": "Follows young King David who took on the mighty warrior Goliath against all odds."
   },
   {
-    "key": 77,
+    "id": 77,
     "title": "Deadly Sanctuary",
     "rating": "PG-13",
     "runtime": "100 min",
@@ -782,7 +782,7 @@ var lotsMoreMovies = [
     "plot": "A reporter, is drawn into an evil web of conspiracy working for a newspaper in an isolated small town, where she strives to uncover the horrifying secret of a vanished reporter, two dead teenage girls and an attractive cowboy."
   },
   {
-    "key": 78,
+    "id": 78,
     "title": "Dial a Prayer",
     "rating": "PG-13",
     "runtime": "97 min",
@@ -793,7 +793,7 @@ var lotsMoreMovies = [
     "plot": "Cora spends her days begrudgingly answering phones at a Prayer Call Center under the watch of well-intentioned leader Bill. When a caller shows up convinced he's been saved by her voice, she must decide if she's the one he thinks she is."
   },
   {
-    "key": 79,
+    "id": 79,
     "title": "Diamond Ruff",
     "rating": "R",
     "runtime": "82 min",
@@ -804,7 +804,7 @@ var lotsMoreMovies = [
     "plot": "Orphan, con artist, crime boss, millionaire, Diamond Ruff has seen it all. Seemingly in control, his next big job has deadly consequences."
   },
   {
-    "key": 80,
+    "id": 80,
     "title": "Digging for Fire",
     "rating": "R",
     "runtime": "85 min",
@@ -815,7 +815,7 @@ var lotsMoreMovies = [
     "plot": "The discovery of a bone and a gun send a husband and wife on separate adventures over the course of a weekend."
   },
   {
-    "key": 81,
+    "id": 81,
     "title": "Do It in Post",
     "rating": "R",
     "runtime": "82 min",
@@ -826,7 +826,7 @@ var lotsMoreMovies = [
     "plot": "Stranded on a nightmarish movie set with no real experience and no way to get home, Alex will find out if he has what it takes to help the crew get the last shot and save the movie."
   },
   {
-    "key": 82,
+    "id": 82,
     "title": "Do You Believe?",
     "rating": "PG-13",
     "runtime": "120 min",
@@ -837,7 +837,7 @@ var lotsMoreMovies = [
     "plot": "When a pastor is shaken by the visible faith of a street-corner preacher, he is reminded that true belief always requires action. His response ignites a journey that impacts everyone it touches in ways that only God could orchestrate."
   },
   {
-    "key": 83,
+    "id": 83,
     "title": "Don Verdean",
     "rating": "PG-13",
     "runtime": "90 min",
@@ -848,7 +848,7 @@ var lotsMoreMovies = [
     "plot": "A self-professed biblical archaeologist who has fallen on hard times starts to bend the truth in order to continue inspiring the faithful."
   },
   {
-    "key": 85,
+    "id": 85,
     "title": "Dragonheart 3: The Sorcerer's Curse",
     "rating": "PG-13",
     "runtime": "98 min",
@@ -859,7 +859,7 @@ var lotsMoreMovies = [
     "plot": "When aspiring knight Gareth goes in search of a fallen comet rumored to contain gold, he is shocked to instead find a set of dragon eggs guided by dragon Drago. After Drago saves Gareth's ..."
   },
   {
-    "key": 86,
+    "id": 86,
     "title": "Drunk Wedding",
     "rating": "R",
     "runtime": "81 min",
@@ -870,7 +870,7 @@ var lotsMoreMovies = [
     "plot": "John and Elissa's perfect destination wedding is derailed when their college friends get drunk on tequila."
   },
   {
-    "key": 87,
+    "id": 87,
     "title": "Echoes of War",
     "rating": "R",
     "runtime": "100 min",
@@ -881,7 +881,7 @@ var lotsMoreMovies = [
     "plot": "A Civil War veteran returns home to the quiet countryside, only to find himself embroiled in a conflict between his family and the brutish cattle rancher harassing them."
   },
   {
-    "key": 88,
+    "id": 88,
     "title": "Electric Slide",
     "rating": "R",
     "runtime": "95 min",
@@ -892,7 +892,7 @@ var lotsMoreMovies = [
     "plot": "A chronicle of the life of furniture salesman turned bank robber Eddie Dodson."
   },
   {
-    "key": 89,
+    "id": 89,
     "title": "Enter Nowhere",
     "rating": "R",
     "runtime": "90 min",
@@ -903,7 +903,7 @@ var lotsMoreMovies = [
     "plot": "Three strangers arrive one by one at a mysterious cabin in the middle of nowhere only to learn they've been brought together for a reason."
   },
   {
-    "key": 91,
+    "id": 91,
     "title": "Exeter",
     "rating": "R",
     "runtime": "91 min",
@@ -914,7 +914,7 @@ var lotsMoreMovies = [
     "plot": "A group of teenagers accidentally release an evil spirit that starts to possess them one by one."
   },
   {
-    "key": 92,
+    "id": 92,
     "title": "Experimenter",
     "rating": "PG-13",
     "runtime": "98 min",
@@ -925,7 +925,7 @@ var lotsMoreMovies = [
     "plot": "In 1961, famed social psychologist Stanley Milgram conducted a series of radical behavior experiments that tested ordinary humans willingness to obey authority."
   },
   {
-    "key": 93,
+    "id": 93,
     "title": "Extremely Used Cars: There Is No Hope",
     "rating": "R",
     "runtime": "92 min",
@@ -936,7 +936,7 @@ var lotsMoreMovies = [
     "plot": "Chip Douglas is a washed-out alcoholic car salesman at a used car lot. With the endless availability of information over the Internet, customers can now get any information about any car ..."
   },
   {
-    "key": 94,
+    "id": 94,
     "title": "Faith of Our Fathers",
     "rating": "PG-13",
     "runtime": "96 min",
@@ -947,7 +947,7 @@ var lotsMoreMovies = [
     "plot": "Two men embark on a trip to the Vietnam Veterans Memorial guided by the letters their fathers wrote while serving in the war."
   },
   {
-    "key": 95,
+    "id": 95,
     "title": "Fear Clinic",
     "rating": "R",
     "runtime": "95 min",
@@ -958,7 +958,7 @@ var lotsMoreMovies = [
     "plot": "A doctor works to cure patients suffering from crippling phobias by placing them inside his invention which induces and controls hallucinations."
   },
   {
-    "key": 96,
+    "id": 96,
     "title": "Fifty Shades of Grey",
     "rating": "R",
     "runtime": "125 min",
@@ -969,7 +969,7 @@ var lotsMoreMovies = [
     "plot": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey."
   },
   {
-    "key": 97,
+    "id": 97,
     "title": "Finders Keepers",
     "rating": "R",
     "runtime": "82 min",
@@ -980,7 +980,7 @@ var lotsMoreMovies = [
     "plot": "Shannon Whisnant purchased a grill at an auction. Inside the grill was an amputated leg. What follows is a story centered on the enterprising Whisnant and John Wood, the man whose leg wound up in the grill due to an odd chain of events."
   },
   {
-    "key": 98,
+    "id": 98,
     "title": "Forever",
     "rating": "R",
     "runtime": "94 min",
@@ -991,7 +991,7 @@ var lotsMoreMovies = [
     "plot": "Alice is a young investigative reporter. She suffers a sorrowful loss but finds an enigmatic commune where she starts to find her will to live and love again."
   },
   {
-    "key": 99,
+    "id": 99,
     "title": "Fort Tilden",
     "rating": "R",
     "runtime": "98 min",
@@ -1002,7 +1002,7 @@ var lotsMoreMovies = [
     "plot": "A comedy about Allie and Harper and their needlessly difficult journey to the beach."
   },
   {
-    "key": 100,
+    "id": 100,
     "title": "Freaks of Nature",
     "rating": "R",
     "runtime": "92 min",
@@ -1013,7 +1013,7 @@ var lotsMoreMovies = [
     "plot": "In the town of Dillford, humans, vampires and zombies were all living in peace - until the alien apocalypse arrived. Now three teenagers-one human, one vampire, and one zombie-have to team up to figure out how to get rid of the visitors."
   },
   {
-    "key": 101,
+    "id": 101,
     "title": "Freedom",
     "rating": "R",
     "runtime": "94 min",
@@ -1024,7 +1024,7 @@ var lotsMoreMovies = [
     "plot": "Two men separated by 100 years are united in their search for freedom. In 1856 a slave, Samuel Woodward and his family, escape from the Monroe Plantation near Richmond, Virginia. A secret ..."
   },
   {
-    "key": 102,
+    "id": 102,
     "title": "Freeheld",
     "rating": "PG-13",
     "runtime": "103 min",
@@ -1035,7 +1035,7 @@ var lotsMoreMovies = [
     "plot": "New Jersey police lieutenant, Laurel Hester, and her registered domestic partner, Stacie Andree, both battle to secure Hester's pension benefits when she is diagnosed with terminal cancer."
   },
   {
-    "key": 103,
+    "id": 103,
     "title": "Frozen Fever",
     "rating": "G",
     "runtime": "8 min",
@@ -1046,7 +1046,7 @@ var lotsMoreMovies = [
     "plot": "On Anna's birthday, Elsa and Kristoff are determined to give her the best celebration ever, but Elsa's icy powers may put more than just the party at risk."
   },
   {
-    "key": 104,
+    "id": 104,
     "title": "Get Hard",
     "rating": "R",
     "runtime": "100 min",
@@ -1057,7 +1057,7 @@ var lotsMoreMovies = [
     "plot": "When millionaire James King is jailed for fraud and bound for San Quentin, he turns to Darnell Lewis to prep him to go behind bars."
   },
   {
-    "key": 105,
+    "id": 105,
     "title": "Gnome Alone",
     "rating": "R",
     "runtime": "94 min",
@@ -1068,7 +1068,7 @@ var lotsMoreMovies = [
     "plot": "When Zoe inherits the magical protection of a bewitched Gnome, she quickly realizes that he isn't your garden variety gnome, when he begins eliminating her enemies in extravagant displays of revenge."
   },
   {
-    "key": 106,
+    "id": 106,
     "title": "Good Kill",
     "rating": "R",
     "runtime": "102 min",
@@ -1079,7 +1079,7 @@ var lotsMoreMovies = [
     "plot": "A family man begins to question the ethics of his job as a drone pilot."
   },
   {
-    "key": 107,
+    "id": 107,
     "title": "Grandma",
     "rating": "R",
     "runtime": "79 min",
@@ -1090,7 +1090,7 @@ var lotsMoreMovies = [
     "plot": "A teenager facing an unplanned pregnancy seeks help from her acerbic grandmother, a woman who is long estranged from her daughter."
   },
   {
-    "key": 108,
+    "id": 108,
     "title": "Gun",
     "rating": "R",
     "runtime": "82 min",
@@ -1101,7 +1101,7 @@ var lotsMoreMovies = [
     "plot": "A drama set in the world of gun-running."
   },
   {
-    "key": 109,
+    "id": 109,
     "title": "Harbinger Down",
     "rating": "R",
     "runtime": "82 min",
@@ -1112,7 +1112,7 @@ var lotsMoreMovies = [
     "plot": "A group of grad students have booked passage on the crabbing boat Harbinger to study the effects of global warming on a pod of Belugas in the Bering Sea. When the ship's crew dredges up a ..."
   },
   {
-    "key": 110,
+    "id": 110,
     "title": "Haunting of Cellblock 11",
     "rating": "R",
     "runtime": "85 min",
@@ -1123,7 +1123,7 @@ var lotsMoreMovies = [
     "plot": "A group of ghost hunters must up their game to compete in the competitive world of paranormal TV shows, leading them to a truly haunted prison with a grisly past that proves to be more than they bargained for."
   },
   {
-    "key": 111,
+    "id": 111,
     "title": "Hayride 2",
     "rating": "R",
     "runtime": "92 min",
@@ -1134,7 +1134,7 @@ var lotsMoreMovies = [
     "plot": "The end of one journey only marks the beginning of another as Detective Loomis returns to uncover the truth behind the Legend of Pitchfork."
   },
   {
-    "key": 112,
+    "id": 112,
     "title": "Heaven Knows What",
     "rating": "R",
     "runtime": "94 min",
@@ -1145,7 +1145,7 @@ var lotsMoreMovies = [
     "plot": "Harley loves Ilya. He gives her life purpose and sets her passion ablaze. So, when he asks her to prove her love by slitting her wrists, she obliges with only mild hesitation, perhaps because of her other all-consuming love: heroin."
   },
   {
-    "key": 113,
+    "id": 113,
     "title": "Heist",
     "rating": "R",
     "runtime": "93 min",
@@ -1156,7 +1156,7 @@ var lotsMoreMovies = [
     "plot": "A father is without the means to pay for his daughter's medical treatment. As a last resort, he partners with a greedy co-worker to rob a casino. When things go awry they're forced to hijack a city bus."
   },
   {
-    "key": 114,
+    "id": 114,
     "title": "Hell and Back",
     "rating": "R",
     "runtime": "86 min",
@@ -1167,7 +1167,7 @@ var lotsMoreMovies = [
     "plot": "Two best friends set out to rescue their pal after he's accidentally dragged to hell."
   },
   {
-    "key": 115,
+    "id": 115,
     "title": "Heroes of Dirt",
     "rating": "PG-13",
     "runtime": "98 min",
@@ -1178,7 +1178,7 @@ var lotsMoreMovies = [
     "plot": "A self-focused BMX dirt rider aspires to become the next stunt champion and is forced to mentor a troubled teen."
   },
   {
-    "key": 116,
+    "id": 116,
     "title": "Hidden",
     "rating": "R",
     "runtime": "84 min",
@@ -1189,7 +1189,7 @@ var lotsMoreMovies = [
     "plot": "A family takes refuge in a fallout shelter to avoid a dangerous outbreak."
   },
   {
-    "key": 117,
+    "id": 117,
     "title": "Home",
     "rating": "PG",
     "runtime": "94 min",
@@ -1200,7 +1200,7 @@ var lotsMoreMovies = [
     "plot": "An alien on the run from his own people makes friends with a girl. He tries to help her on her quest, but can be an interference."
   },
   {
-    "key": 118,
+    "id": 118,
     "title": "Home Sweet Hell",
     "rating": "R",
     "runtime": "98 min",
@@ -1211,7 +1211,7 @@ var lotsMoreMovies = [
     "plot": "Don Champagne seems to have it all but when his wife, Mona, learns of Don's affair with a pretty new salesgirl, Mona will stop at nothing to maintain their storybook life."
   },
   {
-    "key": 119,
+    "id": 119,
     "title": "Honeyglue",
     "rating": "R",
     "runtime": "107 min",
@@ -1222,7 +1222,7 @@ var lotsMoreMovies = [
     "plot": "After learning she only has three months to live, Morgan flips her conservative protected life upside down. That is where she meets Jordan, a rebellious gender-defying artist, who takes her on adventure of a lifetime."
   },
   {
-    "key": 120,
+    "id": 120,
     "title": "Horse Camp",
     "rating": "PG",
     "runtime": "108 min",
@@ -1233,7 +1233,7 @@ var lotsMoreMovies = [
     "plot": "When Kathy arrives at horse camp, she realizes that she must deal with Stacy, the resident mean girl. As competition heats up, Kathy learns to recognize the true value of real friendship."
   },
   {
-    "key": 121,
+    "id": 121,
     "title": "Hot Tub Time Machine 2",
     "rating": "R",
     "runtime": "93 min",
@@ -1244,7 +1244,7 @@ var lotsMoreMovies = [
     "plot": "When Lou finds himself in trouble, Nick and Jacob fire up the hot tub time machine in an attempt to get back to the past. But they inadvertently land in the future with Adam Jr. Now they have to alter the future in order to save the past - which is really the present."
   },
   {
-    "key": 122,
+    "id": 122,
     "title": "Hotel Transylvania 2",
     "rating": "PG",
     "runtime": "89 min",
@@ -1255,7 +1255,7 @@ var lotsMoreMovies = [
     "plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel."
   },
   {
-    "key": 123,
+    "id": 123,
     "title": "Housekeeping",
     "rating": "PG-13",
     "runtime": "90 min",
@@ -1266,7 +1266,7 @@ var lotsMoreMovies = [
     "plot": "Lucy Castillo, a young med student, has just given up a prized summer internship to bail out her troubled younger brother, Sal... again. He needs cash fast, and after being unable to find a..."
   },
   {
-    "key": 124,
+    "id": 124,
     "title": "I Smile Back",
     "rating": "R",
     "runtime": "85 min",
@@ -1277,7 +1277,7 @@ var lotsMoreMovies = [
     "plot": "Laney Brooks does bad things. Married with kids, she takes the drugs she wants, sleeps with the men she wants, disappears when she wants. Now, with the destruction of her family looming, ..."
   },
   {
-    "key": 125,
+    "id": 125,
     "title": "I'll See You in My Dreams",
     "rating": "PG-13",
     "runtime": "92 min",
@@ -1288,7 +1288,7 @@ var lotsMoreMovies = [
     "plot": "A widow and former songstress discovers that life can begin anew at any age."
   },
   {
-    "key": 126,
+    "id": 126,
     "title": "In My Father's House",
     "rating": "R",
     "runtime": "93 min",
@@ -1299,7 +1299,7 @@ var lotsMoreMovies = [
     "plot": "IN MY FATHER'S HOUSE explores identity and legacy in the African-American family, as Grammy award-winning rapper Che 'Rhymefest' Smith and his long-lost father reconnect and try to build a ..."
   },
   {
-    "key": 127,
+    "id": 127,
     "title": "Inequality for All",
     "rating": "PG",
     "runtime": "89 min",
@@ -1310,7 +1310,7 @@ var lotsMoreMovies = [
     "plot": "A documentary that follows former U.S. Labor Secretary Robert Reich as he looks to raise awareness of the country's widening economic gap."
   },
   {
-    "key": 128,
+    "id": 128,
     "title": "Infinitely Polar Bear",
     "rating": "R",
     "runtime": "90 min",
@@ -1321,7 +1321,7 @@ var lotsMoreMovies = [
     "plot": "A manic-depressive mess of a father tries to win back his wife by attempting to take full responsibility of their two young, spirited daughters, who don't make the overwhelming task any easier."
   },
   {
-    "key": 131,
+    "id": 131,
     "title": "Iris",
     "rating": "PG-13",
     "runtime": "79 min",
@@ -1332,7 +1332,7 @@ var lotsMoreMovies = [
     "plot": "A documentary about fashion icon Iris Apfel from legendary documentary filmmaker Albert Maysles."
   },
   {
-    "key": 132,
+    "id": 132,
     "title": "Irrational Man",
     "rating": "R",
     "runtime": "95 min",
@@ -1343,7 +1343,7 @@ var lotsMoreMovies = [
     "plot": "A tormented philosophy professor finds a will to live when he commits an existential act."
   },
   {
-    "key": 133,
+    "id": 133,
     "title": "It Follows",
     "rating": "R",
     "runtime": "100 min",
@@ -1354,7 +1354,7 @@ var lotsMoreMovies = [
     "plot": "A young woman is followed by an unknown supernatural force after getting involved in a sexual encounter."
   },
   {
-    "key": 134,
+    "id": 134,
     "title": "Ivory Tower",
     "rating": "PG-13",
     "runtime": "90 min",
@@ -1365,7 +1365,7 @@ var lotsMoreMovies = [
     "plot": "A documentary that questions the cost -- and value -- of higher education in the United States."
   },
   {
-    "key": 135,
+    "id": 135,
     "title": "Jackie & Ryan",
     "rating": "PG-13",
     "runtime": "90 min",
@@ -1376,7 +1376,7 @@ var lotsMoreMovies = [
     "plot": "A modern day train hopper fighting to become a successful musician, and a single mom battling to maintain custody of her daughter, defy their circumstances by coming together in a relationship that may change each others lives forever."
   },
   {
-    "key": 136,
+    "id": 136,
     "title": "James White",
     "rating": "R",
     "runtime": "85 min",
@@ -1387,7 +1387,7 @@ var lotsMoreMovies = [
     "plot": "James, a twenty-something New Yorker, struggles to take control of his self-destructive behavior in the face of momentous family challenges."
   },
   {
-    "key": 137,
+    "id": 137,
     "title": "Jem and the Holograms",
     "rating": "PG",
     "runtime": "118 min",
@@ -1398,7 +1398,7 @@ var lotsMoreMovies = [
     "plot": "As a small-town girl catapults from underground video sensation to global superstar, she and her three sisters begin a journey of discovering that some talents are too special to keep hidden."
   },
   {
-    "key": 138,
+    "id": 138,
     "title": "Jenny's Wedding",
     "rating": "PG-13",
     "runtime": "94 min",
@@ -1409,7 +1409,7 @@ var lotsMoreMovies = [
     "plot": "Jenny Farrell has led an openly gay life - except with her conventional family. When she finally decides to start a family and marry the woman they thought was just her roommate, the small,..."
   },
   {
-    "key": 139,
+    "id": 139,
     "title": "Jeremy Scott: The People's Designer",
     "rating": "PG-13",
     "runtime": "110 min",
@@ -1420,7 +1420,7 @@ var lotsMoreMovies = [
     "plot": "The story of fashion designer Jeremy Scott's ascent from a small town in Missouri to his current position as the Creative Director of Moschino."
   },
   {
-    "key": 140,
+    "id": 140,
     "title": "Joy",
     "rating": "PG-13",
     "runtime": "124 min",
@@ -1431,7 +1431,7 @@ var lotsMoreMovies = [
     "plot": "Joy is the story of a family across four generations and the woman who rises to become founder and matriarch of a powerful family business dynasty."
   },
   {
-    "key": 141,
+    "id": 141,
     "title": "Julia",
     "rating": "R",
     "runtime": "95 min",
@@ -1442,7 +1442,7 @@ var lotsMoreMovies = [
     "plot": "A neo-noir revenge thriller centering on Julia Shames, who after suffering a brutal trauma, falls prey to an unorthodox form of therapy to restore herself."
   },
   {
-    "key": 142,
+    "id": 142,
     "title": "Jurassic World",
     "rating": "PG-13",
     "runtime": "124 min",
@@ -1453,7 +1453,7 @@ var lotsMoreMovies = [
     "plot": "A new theme park is built on the original site of Jurassic Park. Everything is going well until the park's newest attraction--a genetically modified giant stealth killing machine--escapes containment and goes on a killing spree."
   },
   {
-    "key": 143,
+    "id": 143,
     "title": "Just Before I Go",
     "rating": "R",
     "runtime": "95 min",
@@ -1464,7 +1464,7 @@ var lotsMoreMovies = [
     "plot": "On the verge of giving up on life, a guy travels to his hometown to make amends."
   },
   {
-    "key": 144,
+    "id": 144,
     "title": "Just Let Go",
     "rating": "PG-13",
     "runtime": "106 min",
@@ -1475,7 +1475,7 @@ var lotsMoreMovies = [
     "plot": "After surviving a drunk driving accident that killed his pregnant wife and two kids, Chris Williams struggles to 'just let go' and forgive the young man who caused it."
   },
   {
-    "key": 145,
+    "id": 145,
     "title": "Justice League: Gods and Monsters",
     "rating": "PG-13",
     "runtime": "76 min",
@@ -1486,7 +1486,7 @@ var lotsMoreMovies = [
     "plot": "In an alternate universe, very different versions of DC's Trinity (Superman, Batman and Wonder Woman), who operate outside of the law, are framed for murders of prominent scientist and the government decides to take them out."
   },
   {
-    "key": 146,
+    "id": 146,
     "title": "Justice League: Throne of Atlantis",
     "rating": "PG-13",
     "runtime": "72 min",
@@ -1497,7 +1497,7 @@ var lotsMoreMovies = [
     "plot": "When Atlantian troops assault Metropolis as revenge for the death of their king, the Queen seeks help from the Justice League to find her son who has gone missing during the madness."
   },
   {
-    "key": 147,
+    "id": 147,
     "title": "Keep on Keepin' On",
     "rating": "R",
     "runtime": "84 min",
@@ -1508,7 +1508,7 @@ var lotsMoreMovies = [
     "plot": "A documentary that follows jazz legend Clark Terry over four years to document the mentorship between Terry and 23-year-old blind piano prodigy Justin Kauflin as the young man prepares to compete in an elite, international competition."
   },
   {
-    "key": 148,
+    "id": 148,
     "title": "Kids for Cash",
     "rating": "PG-13",
     "runtime": "102 min",
@@ -1519,7 +1519,7 @@ var lotsMoreMovies = [
     "plot": "Kids For Cash is a riveting look behind the notorious judicial scandal that rocked the nation. Beyond the millions paid and high stakes corruption, Kids For Cash exposes a shocking American..."
   },
   {
-    "key": 149,
+    "id": 149,
     "title": "Krampus",
     "rating": "PG-13",
     "runtime": "98 min",
@@ -1530,7 +1530,7 @@ var lotsMoreMovies = [
     "plot": "A boy who has a bad Christmas ends up accidentally summoning a Christmas demon to his family home."
   },
   {
-    "key": 150,
+    "id": 150,
     "title": "Larry Gaye: Renegade Male Flight Attendant",
     "rating": "R",
     "runtime": "99 min",
@@ -1541,7 +1541,7 @@ var lotsMoreMovies = [
     "plot": "A self-anointed 'renegade' male flight attendant must save the day when the airline he works for tries to eliminate flight attendants as a cost-cutting measure."
   },
   {
-    "key": 151,
+    "id": 151,
     "title": "Last Shift",
     "rating": "R",
     "runtime": "90 min",
@@ -1552,7 +1552,7 @@ var lotsMoreMovies = [
     "plot": "A rookie cop's 1st shift in the last night of a closing police station alone turns into a living nightmare. The plot echoes John Carpenter's 'Assault on Precinct 13' but with a supernatural twist."
   },
   {
-    "key": 152,
+    "id": 152,
     "title": "Lava",
     "rating": "G",
     "runtime": "7 min",
@@ -1563,7 +1563,7 @@ var lotsMoreMovies = [
     "plot": "A story that takes place over millions of years and is inspired by the beauty of tropical islands and the allure of ocean volcanoes."
   },
   {
-    "key": 153,
+    "id": 153,
     "title": "Lila & Eve",
     "rating": "R",
     "runtime": "94 min",
@@ -1574,7 +1574,7 @@ var lotsMoreMovies = [
     "plot": "Two distraught mothers, whose children were gunned down in a drive-by, team up to avenge their deaths after local authorities fail to take action."
   },
   {
-    "key": 154,
+    "id": 154,
     "title": "Lost River",
     "rating": "R",
     "runtime": "95 min",
@@ -1585,7 +1585,7 @@ var lotsMoreMovies = [
     "plot": "A single mother is swept into a dark underworld, while her teenage son discovers a road that leads him to a secret underwater town."
   },
   {
-    "key": 155,
+    "id": 155,
     "title": "Love & Mercy",
     "rating": "PG-13",
     "runtime": "121 min",
@@ -1596,7 +1596,7 @@ var lotsMoreMovies = [
     "plot": "In the 1960s, Beach Boys leader Brian Wilson struggles with emerging psychosis as he attempts to craft his avant-garde pop masterpiece. In the 1980s, he is a broken, confused man under the 24-hour watch of shady therapist Dr. Eugene Landy."
   },
   {
-    "key": 156,
+    "id": 156,
     "title": "Love the Coopers",
     "rating": "PG-13",
     "runtime": "107 min",
@@ -1607,7 +1607,7 @@ var lotsMoreMovies = [
     "plot": "When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday."
   },
   {
-    "key": 157,
+    "id": 157,
     "title": "Low Down",
     "rating": "R",
     "runtime": "114 min",
@@ -1618,7 +1618,7 @@ var lotsMoreMovies = [
     "plot": "A look at the life of pianist Joe Albany from the perspective of his young daughter, as she watches him contend with his drug addiction during the 1960s and '70s jazz scene."
   },
   {
-    "key": 158,
+    "id": 158,
     "title": "Lumberjack Man",
     "rating": "R",
     "runtime": "105 min",
@@ -1629,7 +1629,7 @@ var lotsMoreMovies = [
     "plot": "As the staff of Good Friends Church Camp prepares for a spring break filled with \"Fun Under the Son\", a demon logger rises from his sap boiler to wreak his vengeance and feast on flapjacks soaked in the blood of his victims."
   },
   {
-    "key": 159,
+    "id": 159,
     "title": "LUV",
     "rating": "R",
     "runtime": "94 min",
@@ -1640,7 +1640,7 @@ var lotsMoreMovies = [
     "plot": "An 11-year-old boy gets a crash course in what it means to be a man when he spends a day with the ex-convict uncle he idolizes."
   },
   {
-    "key": 160,
+    "id": 160,
     "title": "Maggie",
     "rating": "PG-13",
     "runtime": "95 min",
@@ -1651,7 +1651,7 @@ var lotsMoreMovies = [
     "plot": "A teenage girl in the Midwest becomes infected by an outbreak of a disease that slowly turns the infected into cannibalistic zombies. During her transformation, her loving father stays by her side."
   },
   {
-    "key": 161,
+    "id": 161,
     "title": "Magic Mike XXL",
     "rating": "R",
     "runtime": "115 min",
@@ -1662,7 +1662,7 @@ var lotsMoreMovies = [
     "plot": "Three years after Mike bowed out of the stripper life at the top of his game, he and the remaining Kings of Tampa hit the road to Myrtle Beach to put on one last blow-out performance."
   },
   {
-    "key": 162,
+    "id": 162,
     "title": "Manglehorn",
     "rating": "PG-13",
     "runtime": "97 min",
@@ -1673,7 +1673,7 @@ var lotsMoreMovies = [
     "plot": "Left heartbroken by the woman he loved and lost many years ago, Manglehorn, an eccentric small-town locksmith, tries to start his life over again with the help of a new friend."
   },
   {
-    "key": 163,
+    "id": 163,
     "title": "Max",
     "rating": "PG",
     "runtime": "111 min",
@@ -1684,7 +1684,7 @@ var lotsMoreMovies = [
     "plot": "A dog that helped US Marines in Afghanistan returns to the U.S. and is adopted by his handler's family after suffering a traumatic experience."
   },
   {
-    "key": 164,
+    "id": 164,
     "title": "Maze Runner: The Scorch Trials",
     "rating": "PG-13",
     "runtime": "132 min",
@@ -1695,7 +1695,7 @@ var lotsMoreMovies = [
     "plot": "After having escaped the Maze, the Gladers now face a new set of challenges on the open roads of a desolate landscape filled with unimaginable obstacles."
   },
   {
-    "key": 165,
+    "id": 165,
     "title": "Me and Earl and the Dying Girl",
     "rating": "PG-13",
     "runtime": "105 min",
@@ -1706,7 +1706,7 @@ var lotsMoreMovies = [
     "plot": "High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer."
   },
   {
-    "key": 166,
+    "id": 166,
     "title": "Meadowland",
     "rating": "R",
     "runtime": "105 min",
@@ -1717,7 +1717,7 @@ var lotsMoreMovies = [
     "plot": "In the hazy aftermath of an unimaginable loss, Sarah and Phil come unhinged, recklessly ignoring the repercussions. Phil starts to lose sight of his morals; Sarah takes off on a potentially disastrous journey, falling deeper into her own fever dream."
   },
   {
-    "key": 167,
+    "id": 167,
     "title": "Mermaids on Mars",
     "rating": "G",
     "runtime": "25 min",
@@ -1728,7 +1728,7 @@ var lotsMoreMovies = [
     "plot": "Follows a young boy who travels to Mars to try to save the last of the planets water and the three mermaids who live there from a love struck Martian bent on destruction."
   },
   {
-    "key": 169,
+    "id": 169,
     "title": "Mississippi Grind",
     "rating": "R",
     "runtime": "108 min",
@@ -1739,7 +1739,7 @@ var lotsMoreMovies = [
     "plot": "Down on his luck and facing financial hardship, Gerry teams up with younger charismatic poker player, Curtis, in an attempt to change his luck. The two set off on a road trip through the South with visions of winning back what's been lost."
   },
   {
-    "key": 170,
+    "id": 170,
     "title": "Mojave",
     "rating": "R",
     "runtime": "93 min",
@@ -1750,7 +1750,7 @@ var lotsMoreMovies = [
     "plot": "A suicidal artist goes into the desert, where he finds his doppelgänger, a homicidal drifter."
   },
   {
-    "key": 171,
+    "id": 171,
     "title": "Money Fight",
     "rating": "PG-13",
     "runtime": "119 min",
@@ -1761,7 +1761,7 @@ var lotsMoreMovies = [
     "plot": "This full-contact action drama, loaded with authentic mixed martial arts, is a transcending inspirational story of redemption."
   },
   {
-    "key": 172,
+    "id": 172,
     "title": "Monkey Kingdom",
     "rating": "G",
     "runtime": "81 min",
@@ -1772,7 +1772,7 @@ var lotsMoreMovies = [
     "plot": "A nature documentary that follows a newborn monkey and its mother as they struggle to survive within the competitive social hierarchy of the Temple Troop, a dynamic group of monkeys who ..."
   },
   {
-    "key": 173,
+    "id": 173,
     "title": "Mostly Ghostly: Have You Met My Ghoulfriend?",
     "rating": "PG",
     "runtime": "90 min",
@@ -1783,7 +1783,7 @@ var lotsMoreMovies = [
     "plot": "Bella Thorne (Shake It Up!, Frienemies), Madison Pettis (Lab Rats, Beverly Hills Chihuahua 3) and Ryan Ochoa (Pair of Kings, The Perfect Game) lead an ensemble cast in this spook-tacular ..."
   },
   {
-    "key": 174,
+    "id": 174,
     "title": "My All American",
     "rating": "PG",
     "runtime": "118 min",
@@ -1794,7 +1794,7 @@ var lotsMoreMovies = [
     "plot": "Freddie Steinmark, an underdog on the gridiron, faces the toughest challenge of his life after leading his team to a championship season."
   },
   {
-    "key": 175,
+    "id": 175,
     "title": "Night Owls",
     "rating": "R",
     "runtime": "90 min",
@@ -1805,7 +1805,7 @@ var lotsMoreMovies = [
     "plot": "After workaholic Kevin has a drunken one night stand with the beautiful train-wreck Madeline, he's horrified to discover that she's actually his boss' jilted ex-mistress. When she takes a ..."
   },
   {
-    "key": 176,
+    "id": 176,
     "title": "Nightlight",
     "rating": "R",
     "runtime": "85 min",
@@ -1816,7 +1816,7 @@ var lotsMoreMovies = [
     "plot": "Five friends play a game in a ''mysterious'' forest with a long history as a beacon for troubled young people contemplating suicide."
   },
   {
-    "key": 177,
+    "id": 177,
     "title": "No God, No Master",
     "rating": "PG-13",
     "runtime": "94 min",
@@ -1827,7 +1827,7 @@ var lotsMoreMovies = [
     "plot": "When a series of package bombs show up on the doorsteps of prominent politicians and businessmen in the summer of 1919, U.S. Bureau of Investigation Agent William Flynn (Strathairn) is ..."
   },
   {
-    "key": 178,
+    "id": 178,
     "title": "No Way Jose",
     "rating": "R",
     "runtime": "97 min",
@@ -1838,7 +1838,7 @@ var lotsMoreMovies = [
     "plot": "Jose Stern, an erstwhile indie-rocker relegated to playing children's birthday parties, is on the verge of turning 40 and at a crossroads in his life."
   },
   {
-    "key": 179,
+    "id": 179,
     "title": "Once I Was a Beehive",
     "rating": "PG",
     "runtime": "119 min",
@@ -1849,7 +1849,7 @@ var lotsMoreMovies = [
     "plot": "After losing her father to cancer, a teenage girl reluctantly joins her new step-cousin at a summer camp for Mormon girls."
   },
   {
-    "key": 180,
+    "id": 180,
     "title": "Paper Towns",
     "rating": "PG-13",
     "runtime": "109 min",
@@ -1860,7 +1860,7 @@ var lotsMoreMovies = [
     "plot": "After an all night adventure, Quentin's life-long crush, Margo, disappears, leaving behind clues that Quentin and his friends follow on the journey of a lifetime."
   },
   {
-    "key": 181,
+    "id": 181,
     "title": "Parts Per Billion",
     "rating": "R",
     "runtime": "98 min",
@@ -1871,7 +1871,7 @@ var lotsMoreMovies = [
     "plot": "In the midst of a manmade biological disaster and a terrible fate, three couples try to find meaning in their lives."
   },
   {
-    "key": 182,
+    "id": 182,
     "title": "Paul Blart: Mall Cop 2",
     "rating": "PG",
     "runtime": "94 min",
@@ -1882,7 +1882,7 @@ var lotsMoreMovies = [
     "plot": "After six years of keeping our malls safe, Paul Blart has earned a well-deserved vacation. He heads to Vegas with his teenage daughter before she heads off to college. But safety never takes a holiday and when duty calls, Blart answers."
   },
   {
-    "key": 183,
+    "id": 183,
     "title": "Pawn Sacrifice",
     "rating": "PG-13",
     "runtime": "115 min",
@@ -1893,7 +1893,7 @@ var lotsMoreMovies = [
     "plot": "Set during the Cold War, American chess prodigy Bobby Fischer finds himself caught between two superpowers and his own struggles as he challenges the Soviet Empire."
   },
   {
-    "key": 184,
+    "id": 184,
     "title": "People Places Things",
     "rating": "R",
     "runtime": "85 min",
@@ -1904,7 +1904,7 @@ var lotsMoreMovies = [
     "plot": "Will Henry is a newly single graphic novelist balancing parenting his young twin daughters and a classroom full of students while exploring and navigating the rich complexities of new love and letting go of the woman who left him."
   },
   {
-    "key": 185,
+    "id": 185,
     "title": "Phantom Halo",
     "rating": "R",
     "runtime": "87 min",
@@ -1915,7 +1915,7 @@ var lotsMoreMovies = [
     "plot": "Brothers Samuel and Beckett Emerson are barely scraping by. Their father, Warren, continues to gamble and drink away any money they bring home. With all the havoc that is constantly going ..."
   },
   {
-    "key": 186,
+    "id": 186,
     "title": "Pitch Perfect 2",
     "rating": "PG-13",
     "runtime": "115 min",
@@ -1926,7 +1926,7 @@ var lotsMoreMovies = [
     "plot": "After a humiliating command performance at The Kennedy Center, the Barden Bellas enter an international competition that no American group has ever won in order to regain their status and right to perform."
   },
   {
-    "key": 187,
+    "id": 187,
     "title": "Pod",
     "rating": "R",
     "runtime": "76 min",
@@ -1937,7 +1937,7 @@ var lotsMoreMovies = [
     "plot": "A family intervention goes horrifically awry within the snowy confines of an isolated lake house."
   },
   {
-    "key": 188,
+    "id": 188,
     "title": "Private Number",
     "rating": "R",
     "runtime": "95 min",
@@ -1948,7 +1948,7 @@ var lotsMoreMovies = [
     "plot": "A series of cryptic phone messages and visions haunt a writer while he struggles to finish a novel. As they increase in intensity, he loses his grip on reality, eventually obsessing over an..."
   },
   {
-    "key": 189,
+    "id": 189,
     "title": "Project Almanac",
     "rating": "PG-13",
     "runtime": "106 min",
@@ -1959,7 +1959,7 @@ var lotsMoreMovies = [
     "plot": "A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control."
   },
   {
-    "key": 190,
+    "id": 190,
     "title": "R.L. Stine's Monsterville: The Cabinet of Souls",
     "rating": "PG",
     "runtime": "85 min",
@@ -1970,7 +1970,7 @@ var lotsMoreMovies = [
     "plot": "Teenage friends must resist the spell of an evil showman staging a house of horrors show in their small town."
   },
   {
-    "key": 191,
+    "id": 191,
     "title": "Ratter",
     "rating": "R",
     "runtime": "80 min",
@@ -1981,7 +1981,7 @@ var lotsMoreMovies = [
     "plot": "Emma, a graduate student living alone in NYC, is being watched by a stalker who hacks into the technology that surrounds her - laptop, cell phone, and other web connected devices. This ..."
   },
   {
-    "key": 192,
+    "id": 192,
     "title": "Re-Kill",
     "rating": "R",
     "runtime": "88 min",
@@ -1992,7 +1992,7 @@ var lotsMoreMovies = [
     "plot": "It's been 5 years since the outbreak that wiped out 85% of the world's population, but the war between Re-Animates (Re-Ans) and Humans wages on. Most of the major cities are still ..."
   },
   {
-    "key": 193,
+    "id": 193,
     "title": "Red Wing",
     "rating": "PG-13",
     "runtime": "108 min",
@@ -2003,7 +2003,7 @@ var lotsMoreMovies = [
     "plot": "A socially thought-provoking and stirring love story based on the French novella, 'François Le Champi' by George Sand."
   },
   {
-    "key": 194,
+    "id": 194,
     "title": "Ricki and the Flash",
     "rating": "PG-13",
     "runtime": "101 min",
@@ -2014,7 +2014,7 @@ var lotsMoreMovies = [
     "plot": "A musician who gave up everything for her dream of rock-and-roll stardom returns home, looking to make things right with her family."
   },
   {
-    "key": 195,
+    "id": 195,
     "title": "Ride",
     "rating": "R",
     "runtime": "93 min",
@@ -2025,7 +2025,7 @@ var lotsMoreMovies = [
     "plot": "A mother travels cross-country to California to be with her son after he decides to drop out of school and become a surfer."
   },
   {
-    "key": 196,
+    "id": 196,
     "title": "Rock 'n' Roll Frankenstein",
     "rating": "R",
     "runtime": "88 min",
@@ -2036,7 +2036,7 @@ var lotsMoreMovies = [
     "plot": "Music agent Bernie Stein, his scientist nephew Frankie, and a drugged out roadie named Iggy team to create a superstar by putting together the remains of dead rockers. All goes according to..."
   },
   {
-    "key": 197,
+    "id": 197,
     "title": "Rock the Kasbah",
     "rating": "R",
     "runtime": "106 min",
@@ -2047,7 +2047,7 @@ var lotsMoreMovies = [
     "plot": "A down-on-his-luck music manager discovers a teenage girl with an extraordinary voice while on a music tour in Afghanistan and takes her to Kabul to compete on the popular television show, Afghan Star."
   },
   {
-    "key": 198,
+    "id": 198,
     "title": "Roommate Wanted",
     "rating": "R",
     "runtime": "85 min",
@@ -2058,7 +2058,7 @@ var lotsMoreMovies = [
     "plot": "Janie and Dee are two polar opposite roommates whose differences come to a head over the course of one crazy day."
   },
   {
-    "key": 199,
+    "id": 199,
     "title": "Rudderless",
     "rating": "R",
     "runtime": "105 min",
@@ -2069,7 +2069,7 @@ var lotsMoreMovies = [
     "plot": "A grieving father in a downward spiral stumbles across a box of his recently deceased son's demo tapes and lyrics. Shocked by the discovery of this unknown talent, he forms a band in the hope of finding some catharsis."
   },
   {
-    "key": 200,
+    "id": 200,
     "title": "Run All Night",
     "rating": "R",
     "runtime": "114 min",
@@ -2080,7 +2080,7 @@ var lotsMoreMovies = [
     "plot": "Mobster and hit man Jimmy Conlon has one night to figure out where his loyalties lie: with his estranged son, Mike, whose life is in danger, or his longtime best friend, mob boss Shawn Maguire, who wants Mike to pay for the death of his own son."
   },
   {
-    "key": 201,
+    "id": 201,
     "title": "Runoff",
     "rating": "R",
     "runtime": "90 min",
@@ -2091,7 +2091,7 @@ var lotsMoreMovies = [
     "plot": "The beauty of the land cannot mask the brutality of a farm town. As harvest draws near, Betty confronts a terrifying new reality and will go to desperate lengths to save her family when they are threatened with being forced from their land."
   },
   {
-    "key": 202,
+    "id": 202,
     "title": "Russell Madness",
     "rating": "PG",
     "runtime": "92 min",
@@ -2102,7 +2102,7 @@ var lotsMoreMovies = [
     "plot": "RUSSELL MADNESS tells the story of Russell, an undersized but big-hearted terrier who dreams of having a family of his own. After running away from his pet store, Russell gets taken in by ..."
   },
   {
-    "key": 203,
+    "id": 203,
     "title": "Safelight",
     "rating": "R",
     "runtime": "84 min",
@@ -2113,7 +2113,7 @@ var lotsMoreMovies = [
     "plot": "A teenage boy and girl discover a renewed sense of possibility as they go on a road trip to photograph lighthouses along the California coast."
   },
   {
-    "key": 204,
+    "id": 204,
     "title": "Salvation Street",
     "rating": "PG",
     "runtime": "86 min",
@@ -2124,7 +2124,7 @@ var lotsMoreMovies = [
     "plot": "One day, one moment, one idea can change lives. Noah Davis is a Pastor in an affluent community. Depressed after losing his wife to illness, he is contacted by an old friend who has opened ..."
   },
   {
-    "key": 205,
+    "id": 205,
     "title": "Scouts Guide to the Zombie Apocalypse",
     "rating": "R",
     "runtime": "93 min",
@@ -2135,7 +2135,7 @@ var lotsMoreMovies = [
     "plot": "Three scouts, on the eve of their last camp-out, discover the true meaning of friendship when they attempt to save their town from a zombie outbreak."
   },
   {
-    "key": 206,
+    "id": 206,
     "title": "Secret in Their Eyes",
     "rating": "PG-13",
     "runtime": "111 min",
@@ -2146,7 +2146,7 @@ var lotsMoreMovies = [
     "plot": "A tight-knit team of rising investigators, along with their supervisor, is suddenly torn apart when they discover that one of their own teenage daughters has been brutally murdered."
   },
   {
-    "key": 207,
+    "id": 207,
     "title": "See You in Valhalla",
     "rating": "R",
     "runtime": "82 min",
@@ -2157,7 +2157,7 @@ var lotsMoreMovies = [
     "plot": "After the bizarre death of her brother, Johana Burwood must return home after four years, to face her strange siblings, her out of touch father and her very touchy past."
   },
   {
-    "key": 208,
+    "id": 208,
     "title": "Self/less",
     "rating": "PG-13",
     "runtime": "117 min",
@@ -2168,7 +2168,7 @@ var lotsMoreMovies = [
     "plot": "A dying real estate mogul transfers his consciousness into a healthy young body, but soon finds that neither the procedure nor the company that performed it are quite what they seem."
   },
   {
-    "key": 209,
+    "id": 209,
     "title": "Septembers of Shiraz",
     "rating": "PG-13",
     "runtime": "110 min",
@@ -2179,7 +2179,7 @@ var lotsMoreMovies = [
     "plot": "Prior to the Iranian revolution it was a place where people of all religions were allowed to flourish. This is the story of a prosperous Jewish family who abandon everything before they are consumed by the passions of revolutionaries."
   },
   {
-    "key": 210,
+    "id": 210,
     "title": "Sex, Death and Bowling",
     "rating": "R",
     "runtime": "92 min",
@@ -2190,7 +2190,7 @@ var lotsMoreMovies = [
     "plot": "Eli McAllister, our eleven-year-old hero, is on a quest. He is also setting out to win The Fiesta Cup, a local bowling tournament. Joining him is his famous fashion designer uncle, Sean McAllister."
   },
   {
-    "key": 211,
+    "id": 211,
     "title": "Seymour: An Introduction",
     "rating": "PG",
     "runtime": "84 min",
@@ -2201,7 +2201,7 @@ var lotsMoreMovies = [
     "plot": "Meet Seymour Bernstein: a beloved pianist, teacher and true inspiration who shares eye-opening insights from an amazing life. Ethan Hawke helms this poignant guide to life."
   },
   {
-    "key": 212,
+    "id": 212,
     "title": "Seymour: An Introduction",
     "rating": "PG",
     "runtime": "84 min",
@@ -2212,7 +2212,7 @@ var lotsMoreMovies = [
     "plot": "Meet Seymour Bernstein: a beloved pianist, teacher and true inspiration who shares eye-opening insights from an amazing life. Ethan Hawke helms this poignant guide to life."
   },
   {
-    "key": 213,
+    "id": 213,
     "title": "Sister Code",
     "rating": "R",
     "runtime": "84 min",
@@ -2223,7 +2223,7 @@ var lotsMoreMovies = [
     "plot": "After the death of their mother, three foster sisters - the shrewd business woman, the free spirit, and the caregiver - find themselves fighting for their individual dreams and fighting each other in this tale of love, lust, and tragedy."
   },
   {
-    "key": 214,
+    "id": 214,
     "title": "Sisters",
     "rating": "R",
     "runtime": "118 min",
@@ -2234,7 +2234,7 @@ var lotsMoreMovies = [
     "plot": "Two sisters decide to throw one last house party before their parents sell their family home."
   },
   {
-    "key": 215,
+    "id": 215,
     "title": "Sleeping with Other People",
     "rating": "R",
     "runtime": "101 min",
@@ -2245,7 +2245,7 @@ var lotsMoreMovies = [
     "plot": "A good-natured womanizer and a serial cheater form a platonic relationship that helps reform them in ways, while a mutual attraction sets in."
   },
   {
-    "key": 216,
+    "id": 216,
     "title": "Smosh: The Movie",
     "rating": "PG-13",
     "runtime": "84 min",
@@ -2256,7 +2256,7 @@ var lotsMoreMovies = [
     "plot": "An embarrassing video of Anthony surfaces online right before his fifth high school reunion. The Smosh dudes then take a portal into YouTube and race to change the video and re-write history before it blows Anthony's chances of reconnecting with his teen crush Anna."
   },
   {
-    "key": 217,
+    "id": 217,
     "title": "Song One",
     "rating": "PG-13",
     "runtime": "86 min",
@@ -2267,7 +2267,7 @@ var lotsMoreMovies = [
     "plot": "A young woman strikes up a relationship with her ailing brother's favorite musician."
   },
   {
-    "key": 218,
+    "id": 218,
     "title": "Southpaw",
     "rating": "R",
     "runtime": "124 min",
@@ -2278,7 +2278,7 @@ var lotsMoreMovies = [
     "plot": "Boxer Billy Hope turns to trainer Tick Wills to help him get his life back on track after losing his wife in a tragic accident and his daughter to child protection services."
   },
   {
-    "key": 219,
+    "id": 219,
     "title": "Spare Parts",
     "rating": "PG-13",
     "runtime": "83 min",
@@ -2289,7 +2289,7 @@ var lotsMoreMovies = [
     "plot": "Four Hispanic high school students form a robotics club. With no experience, 800 bucks, used car parts and a dream, this rag tag team goes up against the country's reigning robotics champion, MIT."
   },
   {
-    "key": 220,
+    "id": 220,
     "title": "Speak No Evil",
     "rating": "R",
     "runtime": "74 min",
@@ -2300,7 +2300,7 @@ var lotsMoreMovies = [
     "plot": "When all the children in a small town become possessed, one mother refuses to believe that her daughter is lost to the devil and will do whatever it takes to keep her alive."
   },
   {
-    "key": 221,
+    "id": 221,
     "title": "Spotlight",
     "rating": "R",
     "runtime": "128 min",
@@ -2311,7 +2311,7 @@ var lotsMoreMovies = [
     "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
   },
   {
-    "key": 223,
+    "id": 223,
     "title": "Staten Island Summer",
     "rating": "R",
     "runtime": "108 min",
@@ -2322,7 +2322,7 @@ var lotsMoreMovies = [
     "plot": "Pals Danny and Frank spend the summer after high school working as lifeguards while figuring out their future."
   },
   {
-    "key": 224,
+    "id": 224,
     "title": "Steve Jobs",
     "rating": "R",
     "runtime": "122 min",
@@ -2333,7 +2333,7 @@ var lotsMoreMovies = [
     "plot": "Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac."
   },
   {
-    "key": 225,
+    "id": 225,
     "title": "Stonewall",
     "rating": "R",
     "runtime": "129 min",
@@ -2344,7 +2344,7 @@ var lotsMoreMovies = [
     "plot": "A young man's political awakening and coming of age during the days and weeks leading up to the Stonewall Riots."
   },
   {
-    "key": 226,
+    "id": 226,
     "title": "Straight Outta Compton",
     "rating": "R",
     "runtime": "147 min",
@@ -2355,7 +2355,7 @@ var lotsMoreMovies = [
     "plot": "The group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood."
   },
   {
-    "key": 227,
+    "id": 227,
     "title": "Strange Magic",
     "rating": "PG",
     "runtime": "99 min",
@@ -2366,7 +2366,7 @@ var lotsMoreMovies = [
     "plot": "Goblins, elves, fairies and imps, and their misadventures sparked by the battle over a powerful potion."
   },
   {
-    "key": 228,
+    "id": 228,
     "title": "Subconscious",
     "rating": "R",
     "runtime": "122 min",
@@ -2377,7 +2377,7 @@ var lotsMoreMovies = [
     "plot": "An investigation into a retired WWII sub plunges a research team into a supernatural journey across the dark abyss of time - with history hanging in the balance."
   },
   {
-    "key": 229,
+    "id": 229,
     "title": "Suburban Gothic",
     "rating": "R",
     "runtime": "90 min",
@@ -2388,7 +2388,7 @@ var lotsMoreMovies = [
     "plot": "Raymond has a prestigious MBA, but he can't find work. He can channel the paranormal, but chatting with a cute girl mystifies him. Kicked out of his big city apartment, Raymond returns home..."
   },
   {
-    "key": 230,
+    "id": 230,
     "title": "Superfast!",
     "rating": "PG-13",
     "runtime": "99 min",
@@ -2399,7 +2399,7 @@ var lotsMoreMovies = [
     "plot": "Undercover cop Lucas White joins Vin Serento's LA gang of illegal street racers. They are fast and they are furious and they plan to double cross LA crime kingpin Juan Carlos de la Sol who hides his cash in a downtown Taco Bell. The gang's outrageous plan is as daring as it is ridiculous and will see them towing the whole damn restaurant, at crazy speeds."
   },
   {
-    "key": 231,
+    "id": 231,
     "title": "Tales of Halloween",
     "rating": "R",
     "runtime": "92 min",
@@ -2410,7 +2410,7 @@ var lotsMoreMovies = [
     "plot": "Ten stories are woven together by their shared theme of Halloween night in an American suburb, where ghouls, imps, aliens and axe murderers appear for one night only to terrorize unsuspecting residents."
   },
   {
-    "key": 232,
+    "id": 232,
     "title": "Tangerine",
     "rating": "R",
     "runtime": "88 min",
@@ -2421,7 +2421,7 @@ var lotsMoreMovies = [
     "plot": "A working girl tears through Tinseltown on Christmas Eve searching for the pimp who broke her heart."
   },
   {
-    "key": 233,
+    "id": 233,
     "title": "Tanner Hall",
     "rating": "R",
     "runtime": "96 min",
@@ -2432,7 +2432,7 @@ var lotsMoreMovies = [
     "plot": "Tanner Hall is a vivid peek into the private world of an all-girls boarding school. In a cozy, but run down New England, the knot of adolescent complexity is unraveled through the coming of age stories of four teen-age girls."
   },
   {
-    "key": 234,
+    "id": 234,
     "title": "Ted 2",
     "rating": "R",
     "runtime": "115 min",
@@ -2443,7 +2443,7 @@ var lotsMoreMovies = [
     "plot": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law."
   },
   {
-    "key": 235,
+    "id": 235,
     "title": "Terminator Genisys",
     "rating": "PG-13",
     "runtime": "126 min",
@@ -2454,7 +2454,7 @@ var lotsMoreMovies = [
     "plot": "When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline."
   },
   {
-    "key": 236,
+    "id": 236,
     "title": "The Adventures of Mark Twain",
     "rating": "G",
     "runtime": "86 min",
@@ -2465,7 +2465,7 @@ var lotsMoreMovies = [
     "plot": "Tom Sawyer, Becky Thatcher and Huck Finn join Mark Twain on his airship to meet Halley's Comet."
   },
   {
-    "key": 237,
+    "id": 237,
     "title": "The Adventures of Pepper and Paula",
     "rating": "PG",
     "runtime": "93 min",
@@ -2476,7 +2476,7 @@ var lotsMoreMovies = [
     "plot": "Based on the true life adventures of Pistol Packin Paula and her dog, Pepper."
   },
   {
-    "key": 238,
+    "id": 238,
     "title": "The Barber",
     "rating": "R",
     "runtime": "95 min",
@@ -2487,7 +2487,7 @@ var lotsMoreMovies = [
     "plot": "A barber comes into contact with two men fixated on what triggers evil. A father, whose life is destroyed in pursuit of a killer, and a son who is trying to prevent his father's obsession."
   },
   {
-    "key": 239,
+    "id": 239,
     "title": "The Big Short",
     "rating": "R",
     "runtime": "130 min",
@@ -2498,7 +2498,7 @@ var lotsMoreMovies = [
     "plot": "Four denizens of the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight."
   },
   {
-    "key": 240,
+    "id": 240,
     "title": "The Boy Next Door",
     "rating": "R",
     "runtime": "91 min",
@@ -2509,7 +2509,7 @@ var lotsMoreMovies = [
     "plot": "A recently cheated on married woman falls for a younger man who has moved in next door, but their torrid affair soon takes a dangerous turn."
   },
   {
-    "key": 241,
+    "id": 241,
     "title": "The Cokeville Miracle",
     "rating": "PG-13",
     "runtime": "94 min",
@@ -2520,7 +2520,7 @@ var lotsMoreMovies = [
     "plot": "Children who were held hostage in their elementary school tell stories of miraculous things, but many adults are skeptical that the Cokeville Miracle ever truly happened."
   },
   {
-    "key": 242,
+    "id": 242,
     "title": "The Condemned 2",
     "rating": "R",
     "runtime": "90 min",
@@ -2531,7 +2531,7 @@ var lotsMoreMovies = [
     "plot": "A former bounty hunter who finds himself on the run as part of a revamped Condemned tournament, in which convicts are forced to fight each other to the death as part of a game that's broadcast to the public."
   },
   {
-    "key": 243,
+    "id": 243,
     "title": "The Diary of a Teenage Girl",
     "rating": "R",
     "runtime": "102 min",
@@ -2542,7 +2542,7 @@ var lotsMoreMovies = [
     "plot": "A teen artist living in 1970s San Francisco enters into an affair with her mother's boyfriend."
   },
   {
-    "key": 244,
+    "id": 244,
     "title": "The Do-Deca-Pentathlon",
     "rating": "R",
     "runtime": "76 min",
@@ -2553,7 +2553,7 @@ var lotsMoreMovies = [
     "plot": "Two brothers compete in their own private 25-event Olympics."
   },
   {
-    "key": 245,
+    "id": 245,
     "title": "The DUFF",
     "rating": "PG-13",
     "runtime": "101 min",
@@ -2564,7 +2564,7 @@ var lotsMoreMovies = [
     "plot": "A high school senior instigates a social pecking order revolution after finding out that she has been labeled the DUFF - Designated Ugly Fat Friend - by her prettier, more popular counterparts."
   },
   {
-    "key": 246,
+    "id": 246,
     "title": "The End of the Tour",
     "rating": "R",
     "runtime": "106 min",
@@ -2575,7 +2575,7 @@ var lotsMoreMovies = [
     "plot": "The story of the five-day interview between Rolling Stone reporter David Lipsky and acclaimed novelist David Foster Wallace, which took place right after the 1996 publication of Wallace's groundbreaking epic novel, 'Infinite Jest.'"
   },
   {
-    "key": 247,
+    "id": 247,
     "title": "The Final Girls",
     "rating": "PG-13",
     "runtime": "88 min",
@@ -2586,7 +2586,7 @@ var lotsMoreMovies = [
     "plot": "A young woman grieving the loss of her mother, a famous scream queen from the 1980s, finds herself pulled into the world of her mom's most famous movie. Reunited, the women must fight off the film's maniacal killer."
   },
   {
-    "key": 248,
+    "id": 248,
     "title": "The Fluffy Movie: Unity Through Laughter",
     "rating": "PG-13",
     "runtime": "101 min",
@@ -2597,7 +2597,7 @@ var lotsMoreMovies = [
     "plot": "A comedy concert film that captures the on-stage performance and inspirational success story of Gabriel \"Fluffy\" Iglesias."
   },
   {
-    "key": 249,
+    "id": 249,
     "title": "The Forger",
     "rating": "R",
     "runtime": "92 min",
@@ -2608,7 +2608,7 @@ var lotsMoreMovies = [
     "plot": "A thief works with his father and son to forge a painting by Monet and steal the original. Together, they plan the heist of their lives."
   },
   {
-    "key": 250,
+    "id": 250,
     "title": "The Gallows",
     "rating": "R",
     "runtime": "81 min",
@@ -2619,7 +2619,7 @@ var lotsMoreMovies = [
     "plot": "20 years after a horrific accident during a small town school play, students at the school resurrect the failed show in a misguided attempt to honor the anniversary of the tragedy - but soon discover that some things are better left alone."
   },
   {
-    "key": 251,
+    "id": 251,
     "title": "The Good Dinosaur",
     "rating": "PG",
     "runtime": "93 min",
@@ -2630,7 +2630,7 @@ var lotsMoreMovies = [
     "plot": "In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend."
   },
   {
-    "key": 252,
+    "id": 252,
     "title": "The Greening of Whitney Brown",
     "rating": "PG",
     "runtime": "83 min",
@@ -2641,7 +2641,7 @@ var lotsMoreMovies = [
     "plot": "Whitney, a spoiled pre-teen from Philadelphia, is forced to move to the country when her parents feel the squeeze of economic hard times. A fish out of water, far from her comfort zone, she..."
   },
   {
-    "key": 253,
+    "id": 253,
     "title": "The Hunting Ground",
     "rating": "PG-13",
     "runtime": "103 min",
@@ -2652,7 +2652,7 @@ var lotsMoreMovies = [
     "plot": "An exposé of rape crimes on U.S. college campuses, their institutional cover-ups, and the devastating toll they take on students and their families."
   },
   {
-    "key": 254,
+    "id": 254,
     "title": "The Intern",
     "rating": "PG-13",
     "runtime": "121 min",
@@ -2663,7 +2663,7 @@ var lotsMoreMovies = [
     "plot": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin."
   },
   {
-    "key": 255,
+    "id": 255,
     "title": "The Keeping Room",
     "rating": "R",
     "runtime": "95 min",
@@ -2674,7 +2674,7 @@ var lotsMoreMovies = [
     "plot": "Left without men in the dying days of the American Civil War, three Southern women - two sisters and one African-American slave - must fight to defend their home and themselves from two rogue soldiers who have broken off from the fast-approaching Union Army."
   },
   {
-    "key": 256,
+    "id": 256,
     "title": "The Last Five Years",
     "rating": "PG-13",
     "runtime": "94 min",
@@ -2685,7 +2685,7 @@ var lotsMoreMovies = [
     "plot": "A struggling actress and her novelist lover each illustrate the struggle and deconstruction of their love affair."
   },
   {
-    "key": 257,
+    "id": 257,
     "title": "The Lazarus Effect",
     "rating": "PG-13",
     "runtime": "83 min",
@@ -2696,7 +2696,7 @@ var lotsMoreMovies = [
     "plot": "A group of medical students discover a way to bring dead patients back to life."
   },
   {
-    "key": 258,
+    "id": 258,
     "title": "The Letters",
     "rating": "PG",
     "runtime": "114 min",
@@ -2707,7 +2707,7 @@ var lotsMoreMovies = [
     "plot": "A drama that explores the life of Mother Teresa through letters she wrote to her longtime friend and spiritual advisor, Father Celeste van Exem over a nearly 50-year period."
   },
   {
-    "key": 259,
+    "id": 259,
     "title": "The Little Engine That Could",
     "rating": "G",
     "runtime": "83 min",
@@ -2718,7 +2718,7 @@ var lotsMoreMovies = [
     "plot": "Featuring an all-star cast, the timeless story comes to life in this all-new, feature-length film filled with fun and adventure!"
   },
   {
-    "key": 260,
+    "id": 260,
     "title": "The Longest Ride",
     "rating": "PG-13",
     "runtime": "128 min",
@@ -2729,7 +2729,7 @@ var lotsMoreMovies = [
     "plot": "The lives of a young couple intertwine with a much older man, as he reflects back on a past love."
   },
   {
-    "key": 261,
+    "id": 261,
     "title": "The Luigi0730 Sequel",
     "rating": "PG-13",
     "runtime": "73 min",
@@ -2740,7 +2740,7 @@ var lotsMoreMovies = [
     "plot": "After their world is destroyed, and their princess has been kidnapped, Mario and Luigi hunt down an evil wizard hellbent to destroy the Mushroom Kingdom."
   },
   {
-    "key": 262,
+    "id": 262,
     "title": "The Man in 3B",
     "rating": "R",
     "runtime": "93 min",
@@ -2751,7 +2751,7 @@ var lotsMoreMovies = [
     "plot": "Daryl Graham (Lamman Rucker) has just moved into a Jamaica, Queens, apartment building and his neighbors, both male and female alike, can't stop talking about him. From his extreme ..."
   },
   {
-    "key": 263,
+    "id": 263,
     "title": "The Marine 4: Moving Target",
     "rating": "R",
     "runtime": "90 min",
@@ -2762,7 +2762,7 @@ var lotsMoreMovies = [
     "plot": "Jake Carter is assigned to protect a \"high-value package,\" a beautiful whistleblower trying to expose a corrupt army defense contractor."
   },
   {
-    "key": 264,
+    "id": 264,
     "title": "The Night Before",
     "rating": "R",
     "runtime": "101 min",
@@ -2773,7 +2773,7 @@ var lotsMoreMovies = [
     "plot": "On Christmas eve, three lifelong friends, two of whom are Jewish, spend the night in New York City looking for the Holy Grail of Christmas parties."
   },
   {
-    "key": 265,
+    "id": 265,
     "title": "The Peanuts Movie",
     "rating": "G",
     "runtime": "88 min",
@@ -2784,7 +2784,7 @@ var lotsMoreMovies = [
     "plot": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life."
   },
   {
-    "key": 266,
+    "id": 266,
     "title": "The Perfect Guy",
     "rating": "PG-13",
     "runtime": "100 min",
@@ -2795,7 +2795,7 @@ var lotsMoreMovies = [
     "plot": "After breaking up with her boyfriend, a professional woman gets involved with a man who seems almost too good to be true."
   },
   {
-    "key": 267,
+    "id": 267,
     "title": "The Road Within",
     "rating": "R",
     "runtime": "100 min",
@@ -2806,7 +2806,7 @@ var lotsMoreMovies = [
     "plot": "A young man with Tourette's Syndrome embarks on a road trip with his recently-deceased mother's ashes."
   },
   {
-    "key": 268,
+    "id": 268,
     "title": "The Runner",
     "rating": "R",
     "runtime": "90 min",
@@ -2817,7 +2817,7 @@ var lotsMoreMovies = [
     "plot": "In the aftermath of the 2010 BP oil spill, an idealistic but flawed politician is forced to confront his dysfunctional life after his career is destroyed in a sex scandal."
   },
   {
-    "key": 269,
+    "id": 269,
     "title": "The Scorpion King 4: Quest for Power",
     "rating": "PG-13",
     "runtime": "105 min",
@@ -2828,7 +2828,7 @@ var lotsMoreMovies = [
     "plot": "When he is betrayed by a trusted friend, Mathayus must marshal all his strength and cunning to outwit a formidable opponent who will stop at nothing to unlock a supreme ancient power."
   },
   {
-    "key": 270,
+    "id": 270,
     "title": "The Seven Five",
     "rating": "R",
     "runtime": "104 min",
@@ -2839,7 +2839,7 @@ var lotsMoreMovies = [
     "plot": "Meet the dirtiest cop in NYC history. Michael Dowd stole money and dealt drugs while patrolling the streets of 80s Brooklyn."
   },
   {
-    "key": 271,
+    "id": 271,
     "title": "The SpongeBob Movie: Sponge Out of Water",
     "rating": "PG",
     "runtime": "92 min",
@@ -2850,7 +2850,7 @@ var lotsMoreMovies = [
     "plot": "When a diabolical pirate above the sea steals the secret Krabby Patty formula, SpongeBob and his nemesis Plankton must team up in order to get it back."
   },
   {
-    "key": 272,
+    "id": 272,
     "title": "The Squeeze",
     "rating": "PG-13",
     "runtime": "95 min",
@@ -2861,7 +2861,7 @@ var lotsMoreMovies = [
     "plot": "A humble young man with uncommon skills from a small southern town gets caught up in high stakes golf matches between big-time gamblers until the game becomes life and death."
   },
   {
-    "key": 273,
+    "id": 273,
     "title": "The Stanford Prison Experiment",
     "rating": "R",
     "runtime": "122 min",
@@ -2872,7 +2872,7 @@ var lotsMoreMovies = [
     "plot": "Twenty-four male students out of seventy-five were selected to take on randomly assigned roles of prisoners and guards in a mock prison situated in the basement of the Stanford psychology building."
   },
   {
-    "key": 274,
+    "id": 274,
     "title": "The Visit",
     "rating": "PG-13",
     "runtime": "94 min",
@@ -2883,7 +2883,7 @@ var lotsMoreMovies = [
     "plot": "Two siblings become incredibly frightened by their grandparents disturbing behavior, while visiting them on vacation."
   },
   {
-    "key": 275,
+    "id": 275,
     "title": "The Walking Deceased",
     "rating": "R",
     "runtime": "88 min",
@@ -2894,7 +2894,7 @@ var lotsMoreMovies = [
     "plot": "When a police officer wakes up in a hospital to find out he is in the middle of a zombie apocalypse, he will do anything to find his family, even sacrifice Twitter."
   },
   {
-    "key": 276,
+    "id": 276,
     "title": "The Wannabe",
     "rating": "R",
     "runtime": "90 min",
@@ -2905,7 +2905,7 @@ var lotsMoreMovies = [
     "plot": "Obsessed with mob culture, and desperate to fit in, Thomas sets out to fix the 1992 trial of John Gotti. He believes if the plan is executed, it will put him at the center of all that he ..."
   },
   {
-    "key": 277,
+    "id": 277,
     "title": "The Wedding Ringer",
     "rating": "R",
     "runtime": "101 min",
@@ -2916,7 +2916,7 @@ var lotsMoreMovies = [
     "plot": "Two weeks shy of his wedding, a socially awkward guy enters into a charade by hiring the owner of a company that provides best men for grooms in need."
   },
   {
-    "key": 278,
+    "id": 278,
     "title": "The Wicked Within",
     "rating": "R",
     "runtime": "91 min",
@@ -2927,7 +2927,7 @@ var lotsMoreMovies = [
     "plot": "After a year passes since the sudden death of a child, a family gathering takes place whilst peculiar unexplainable events occur. Tension over peculiar circumstances cracks the veneer of ..."
   },
   {
-    "key": 279,
+    "id": 279,
     "title": "The Wolfpack",
     "rating": "R",
     "runtime": "90 min",
@@ -2938,7 +2938,7 @@ var lotsMoreMovies = [
     "plot": "Locked away from society in an apartment on the Lower East Side of Manhattan, the Angulo brothers learn about the outside world through the films that they watch. Nicknamed, 'The Wolfpack,'..."
   },
   {
-    "key": 280,
+    "id": 280,
     "title": "The World Made Straight",
     "rating": "R",
     "runtime": "119 min",
@@ -2949,7 +2949,7 @@ var lotsMoreMovies = [
     "plot": "In a rural Appalachian community haunted by the legacy of a Civil War massacre, a rebellious young man struggles to escape the violence that would bind him to the past."
   },
   {
-    "key": 281,
+    "id": 281,
     "title": "The Wrecking Crew",
     "rating": "PG",
     "runtime": "101 min",
@@ -2960,7 +2960,7 @@ var lotsMoreMovies = [
     "plot": "A celebration of the musical work of a group of session musicians known as \"The Wrecking Crew\", a band that provided back-up instrumentals to such legendary recording artists as Frank Sinatra, The Beach Boys and Bing Crosby."
   },
   {
-    "key": 282,
+    "id": 282,
     "title": "The Young Kieslowski",
     "rating": "R",
     "runtime": "94 min",
@@ -2971,7 +2971,7 @@ var lotsMoreMovies = [
     "plot": "Two brainy and awkward virgins hook up (drunkenly), fall in love (maybe), and get pregnant (twins)."
   },
   {
-    "key": 283,
+    "id": 283,
     "title": "Tinker Bell and the Legend of the NeverBeast",
     "rating": "G",
     "runtime": "76 min",
@@ -2982,7 +2982,7 @@ var lotsMoreMovies = [
     "plot": "Fun and talented animal fairy Fawn believes you can't judge a book by its cover, or an animal by its fangs, so she befriends a huge and mysterious creature known as the NeverBeast. While ..."
   },
   {
-    "key": 284,
+    "id": 284,
     "title": "To Write Love on Her Arms",
     "rating": "PG-13",
     "runtime": "118 min",
@@ -2993,7 +2993,7 @@ var lotsMoreMovies = [
     "plot": "A drama centered around Renee Yohe and her battle with drugs, depression, and other life issues that ultimately leads to the founding of charity group To Write Love on Her Arms."
   },
   {
-    "key": 285,
+    "id": 285,
     "title": "Tooken",
     "rating": "R",
     "runtime": "80 min",
@@ -3004,7 +3004,7 @@ var lotsMoreMovies = [
     "plot": "Tooken - The spoof on the popular Taken franchise."
   },
   {
-    "key": 286,
+    "id": 286,
     "title": "Torture Chamber",
     "rating": "R",
     "runtime": "90 min",
@@ -3015,7 +3015,7 @@ var lotsMoreMovies = [
     "plot": "A shocking family portrait. A boy oozing blood and saliva, bound by ropes and handcuffs, imprisoned in an animal cage. A deeply religious mother who believes her son is controlled by the ..."
   },
   {
-    "key": 287,
+    "id": 287,
     "title": "Tracers",
     "rating": "PG-13",
     "runtime": "94 min",
@@ -3026,7 +3026,7 @@ var lotsMoreMovies = [
     "plot": "Wanted by the Chinese mafia, a New York City bike messenger escapes into the world of parkour after meeting a beautiful stranger."
   },
   {
-    "key": 288,
+    "id": 288,
     "title": "Trainwreck",
     "rating": "R",
     "runtime": "125 min",
@@ -3037,7 +3037,7 @@ var lotsMoreMovies = [
     "plot": "Having thought that monogamy was never possible, a commitment-phobic career woman may have to face her fears when she meets a good guy."
   },
   {
-    "key": 289,
+    "id": 289,
     "title": "Tremors 5: Bloodlines",
     "rating": "PG-13",
     "runtime": "99 min",
@@ -3048,7 +3048,7 @@ var lotsMoreMovies = [
     "plot": "The giant, man-eating Graboids are back and even deadlier than before, terrorizing the inhabitants of a South African wildlife reserve as they attack from below-and above."
   },
   {
-    "key": 290,
+    "id": 290,
     "title": "Trumbo",
     "rating": "R",
     "runtime": "124 min",
@@ -3059,7 +3059,7 @@ var lotsMoreMovies = [
     "plot": "In 1947, Dalton Trumbo was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs."
   },
   {
-    "key": 291,
+    "id": 291,
     "title": "Tyler Perry's Madea's Tough Love",
     "rating": "PG",
     "runtime": "64 min",
@@ -3070,7 +3070,7 @@ var lotsMoreMovies = [
     "plot": "After a hilarious run-in with the law, Madea is sentenced to community service. Determined to do good for the 'hood, Madea enlists Aunt Bam and Uncle Joe to try and save the Moms Mabley ..."
   },
   {
-    "key": 292,
+    "id": 292,
     "title": "Unbranded",
     "rating": "PG-13",
     "runtime": "106 min",
@@ -3081,7 +3081,7 @@ var lotsMoreMovies = [
     "plot": "Sixteen mustangs, four men, one dream: to ride border to border, Mexico to Canada, up the spine of the American West. The documentary tracks four fresh-out-of-college buddies as they take ..."
   },
   {
-    "key": 293,
+    "id": 293,
     "title": "Underdog Kids",
     "rating": "PG",
     "runtime": "94 min",
@@ -3092,7 +3092,7 @@ var lotsMoreMovies = [
     "plot": "Inner city kids from a poor neighborhood go up against the undefeated Beverly Hills Junior National Karate Team."
   },
   {
-    "key": 294,
+    "id": 294,
     "title": "Unexpected",
     "rating": "R",
     "runtime": "90 min",
@@ -3103,7 +3103,7 @@ var lotsMoreMovies = [
     "plot": "An inner-city high school teacher discovers she is pregnant at the same time as one of her most promising students and the two develop an unlikely friendship while struggling to navigate their unexpected pregnancies."
   },
   {
-    "key": 295,
+    "id": 295,
     "title": "Unfinished Business",
     "rating": "R",
     "runtime": "91 min",
@@ -3114,7 +3114,7 @@ var lotsMoreMovies = [
     "plot": "A hard-working small business owner and his two associates travel to Europe to close the most important deal of their lives. But what began as a routine business trip goes off the rails in every way imaginable - and unimaginable."
   },
   {
-    "key": 296,
+    "id": 296,
     "title": "Unfriended",
     "rating": "R",
     "runtime": "83 min",
@@ -3125,7 +3125,7 @@ var lotsMoreMovies = [
     "plot": "A group of online chat room friends find themselves haunted by a mysterious, supernatural force using the account of their dead friend."
   },
   {
-    "key": 297,
+    "id": 297,
     "title": "Unnatural",
     "rating": "R",
     "runtime": "89 min",
@@ -3136,7 +3136,7 @@ var lotsMoreMovies = [
     "plot": "Global climate change prompts a scientific corporation to genetically modify Alaskan polar bears with horrific and deadly results."
   },
   {
-    "key": 298,
+    "id": 298,
     "title": "Unsullied",
     "rating": "R",
     "runtime": "93 min",
@@ -3147,7 +3147,7 @@ var lotsMoreMovies = [
     "plot": "Follows Reagan, a track star, who is kidnapped by a pair of sociopaths after her car breaks down on a deserted road."
   },
   {
-    "key": 299,
+    "id": 299,
     "title": "Vacation",
     "rating": "R",
     "runtime": "99 min",
@@ -3158,7 +3158,7 @@ var lotsMoreMovies = [
     "plot": "Rusty Griswold takes his own family on a road trip to \"Walley World\" in order to spice things up with his wife and reconnect with his sons."
   },
   {
-    "key": 300,
+    "id": 300,
     "title": "Vendetta",
     "rating": "R",
     "runtime": "90 min",
@@ -3169,7 +3169,7 @@ var lotsMoreMovies = [
     "plot": "A detective pushed beyond his limits will stop at nothing for vengeance. When his wife is killed by a criminal that he put away, Mason, a hard-nosed detective, deliberately gets arrested in order to get revenge. While inside, Mason discovers a new criminal enterprise that those behind it would kill to protect."
   },
   {
-    "key": 301,
+    "id": 301,
     "title": "Veronika Decides to Die",
     "rating": "R",
     "runtime": "103 min",
@@ -3180,7 +3180,7 @@ var lotsMoreMovies = [
     "plot": "After a frantic suicide attempt, Veronika awakens inside a mysterious mental asylum. Under the supervision of an unorthodox psychiatrist who specializes in controversial treatment, Veronika learns that she has only weeks to live."
   },
   {
-    "key": 302,
+    "id": 302,
     "title": "Vice",
     "rating": "R",
     "runtime": "96 min",
@@ -3191,7 +3191,7 @@ var lotsMoreMovies = [
     "plot": "Bruce Willis stars in this Sci-Fi thriller about ultimate resort: VICE, where customers can play out their wildest fantasies with artificial inhabitants who look like humans."
   },
   {
-    "key": 303,
+    "id": 303,
     "title": "Victor Frankenstein",
     "rating": "PG-13",
     "runtime": "110 min",
@@ -3202,7 +3202,7 @@ var lotsMoreMovies = [
     "plot": "Told from Igor's perspective, we see the troubled young assistant's dark origins, his redemptive friendship with the young medical student Viktor Von Frankenstein, and become eyewitnesses to the emergence of how Frankenstein became the man - and the legend - we know today."
   },
   {
-    "key": 304,
+    "id": 304,
     "title": "War Pigs",
     "rating": "R",
     "runtime": "91 min",
@@ -3213,7 +3213,7 @@ var lotsMoreMovies = [
     "plot": "A rag tag unit of misfits known as the War Pigs must go behind enemy lines to exterminate Nazis by any means necessary."
   },
   {
-    "key": 305,
+    "id": 305,
     "title": "War Room",
     "rating": "PG",
     "runtime": "120 min",
@@ -3224,7 +3224,7 @@ var lotsMoreMovies = [
     "plot": "A seemingly perfect family looks to fix their problems with the help of Miss Clara, an older, wiser woman."
   },
   {
-    "key": 306,
+    "id": 306,
     "title": "Welcome to Me",
     "rating": "R",
     "runtime": "87 min",
@@ -3235,7 +3235,7 @@ var lotsMoreMovies = [
     "plot": "When Alice Klieg wins the Mega-Millions lottery, she immediately quits her psychiatric meds and buys her own talk show."
   },
   {
-    "key": 307,
+    "id": 307,
     "title": "Where Hope Grows",
     "rating": "PG-13",
     "runtime": "95 min",
@@ -3246,7 +3246,7 @@ var lotsMoreMovies = [
     "plot": "A baseball player whose professional career was cut short due to his personal problems is suddenly awakened and invigorated by a young-man with Down syndrome who works at the local grocery store."
   },
   {
-    "key": 308,
+    "id": 308,
     "title": "While We're Young",
     "rating": "R",
     "runtime": "97 min",
@@ -3257,7 +3257,7 @@ var lotsMoreMovies = [
     "plot": "A middle-aged couple's career and marriage are overturned when a disarming young couple enters their lives."
   },
   {
-    "key": 309,
+    "id": 309,
     "title": "Wild Card",
     "rating": "R",
     "runtime": "92 min",
@@ -3268,7 +3268,7 @@ var lotsMoreMovies = [
     "plot": "When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play...and it's all or nothing."
   },
   {
-    "key": 310,
+    "id": 310,
     "title": "Wild Horses",
     "rating": "R",
     "runtime": "100 min",
@@ -3279,7 +3279,7 @@ var lotsMoreMovies = [
     "plot": "A detective opens up a fifteen-year-old missing persons case and begins to suspect that the boy it belongs to was murdered - and that a local rancher was involved."
   },
   {
-    "key": 311,
+    "id": 311,
     "title": "Wind Walkers",
     "rating": "R",
     "runtime": "93 min",
@@ -3290,7 +3290,7 @@ var lotsMoreMovies = [
     "plot": "With one of their own missing, a group of friends travel to the remote Florida everglades where they discover that an ancient, malevolent curse is tracking them."
   },
   {
-    "key": 312,
+    "id": 312,
     "title": "Wingman Inc.",
     "rating": "R",
     "runtime": "106 min",
@@ -3301,7 +3301,7 @@ var lotsMoreMovies = [
     "plot": "When a professional wingman falls for a professional man-eater, it's only a matter of time before they realize that they're in love with the competition."
   },
   {
-    "key": 313,
+    "id": 313,
     "title": "Woodlawn",
     "rating": "PG",
     "runtime": "123 min",
@@ -3312,7 +3312,7 @@ var lotsMoreMovies = [
     "plot": "A gifted high school football player must learn to embrace his talent and his faith as he battles racial tensions on and off the field."
   },
   {
-    "key": 314,
+    "id": 314,
     "title": "Yellow Day",
     "rating": "PG",
     "runtime": "98 min",
@@ -3323,7 +3323,7 @@ var lotsMoreMovies = [
     "plot": "Yellow Day chronicles a young man's life-changing and inspirational journey through the mysterious Yellow Day. To many, the Yellow Day is simply a fun day celebrating outreach at a kid's ..."
   },
   {
-    "key": 315,
+    "id": 315,
     "title": "Zarkorr! The Invader",
     "rating": "PG",
     "runtime": "80 min",
@@ -3334,7 +3334,7 @@ var lotsMoreMovies = [
     "plot": "An \"average\" postal worker is informed by a tiny alien hologram which looks like a teenage girl that he is the \"choosen one\" to destroy a giant reptile to save the Earth."
   },
   {
-    "key": 316,
+    "id": 316,
     "title": "Zipper",
     "rating": "R",
     "runtime": "103 min",
@@ -3345,7 +3345,7 @@ var lotsMoreMovies = [
     "plot": "A family man has it all until he risks losing everything due to his inability to fight off his obsessive temptation for other women."
   },
   {
-    "key": 317,
+    "id": 317,
     "title": "Zombeavers",
     "rating": "R",
     "runtime": "77 min",

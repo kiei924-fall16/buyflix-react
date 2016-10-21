@@ -1,7 +1,7 @@
 // Use SampleData.movies to get this data in index.js
 var movieData = [
   {
-    "key": 15,
+    "id": 15,
     "title": "Air",
     "rating": "PG-13",
     "runtime": "95 min",
@@ -12,7 +12,7 @@ var movieData = [
     "plot": "In the near future, breathable air is nonexistent and two engineers tasked with guarding the last hope for mankind struggle to preserve their own lives while administering to their vital task at hand."
   },
   {
-    "key": 18,
+    "id": 18,
     "title": "Aloha",
     "rating": "PG-13",
     "runtime": "105 min",
@@ -23,7 +23,7 @@ var movieData = [
     "plot": "A celebrated military contractor returns to the site of his greatest career triumphs and reconnects with a long-ago love while unexpectedly falling for the hard-charging Air Force watch-dog assigned to him."
   },
   {
-    "key": 21,
+    "id": 21,
     "title": "American Sniper",
     "rating": "R",
     "runtime": "133 min",
@@ -34,7 +34,7 @@ var movieData = [
     "plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind."
   },
   {
-    "key": 24,
+    "id": 24,
     "title": "Ant-Man",
     "rating": "PG-13",
     "runtime": "117 min",
@@ -45,7 +45,7 @@ var movieData = [
     "plot": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world."
   },
   {
-    "key": 37,
+    "id": 37,
     "title": "Batman vs. Robin",
     "rating": "PG-13",
     "runtime": "80 min",
@@ -56,7 +56,7 @@ var movieData = [
     "plot": "While Damian Wayne struggles to cope with Batman's no-killing rule, he soon starts to believe that his destiny lies within a secret society known as, The Court of Owls."
   },
   {
-    "key": 73,
+    "id": 73,
     "title": "Daddy's Home",
     "rating": "PG-13",
     "runtime": "96 min",
@@ -67,7 +67,7 @@ var movieData = [
     "plot": "A mild-mannered radio executive strives to become the best stepdad to his wife's two children, but complications ensue when their freewheeling and freeloading real father arrives, forcing him to compete for the affection of the kids."
   },
   {
-    "key": 84,
+    "id": 84,
     "title": "Dope",
     "rating": "R",
     "runtime": "103 min",
@@ -78,7 +78,7 @@ var movieData = [
     "plot": "Life changes for Malcolm, a geek who's surviving life in a tough neighborhood, after a chance invitation to an underground party leads him and his friends into a Los Angeles adventure."
   },
   {
-    "key": 90,
+    "id": 90,
     "title": "Entourage",
     "rating": "R",
     "runtime": "104 min",
@@ -89,7 +89,7 @@ var movieData = [
     "plot": "Movie star Vincent Chase, together with his boys Eric, Turtle, and Johnny, are back - and back in business with super agent-turned-studio head Ari Gold on a risky project that will serve as Vince's directorial debut."
   },
   {
-    "key": 129,
+    "id": 129,
     "title": "Inside Out",
     "rating": "PG",
     "runtime": "95 min",
@@ -100,7 +100,7 @@ var movieData = [
     "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
   },
   {
-    "key": 130,
+    "id": 130,
     "title": "Insurgent",
     "rating": "PG-13",
     "runtime": "119 min",
@@ -111,7 +111,7 @@ var movieData = [
     "plot": "Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side."
   },
   {
-    "key": 168,
+    "id": 168,
     "title": "Minions",
     "rating": "PG",
     "runtime": "91 min",
@@ -122,7 +122,7 @@ var movieData = [
     "plot": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world."
   },
   {
-    "key": 222,
+    "id": 222,
     "title": "Star Wars: The Force Awakens",
     "rating": "PG-13",
     "runtime": "135 min",
