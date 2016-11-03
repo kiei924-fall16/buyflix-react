@@ -1,5 +1,4 @@
-// Use SampleData.movies to get this data in index.js
-var movieData = [
+[
   {
     "id": 15,
     "title": "Air",
@@ -133,4 +132,3 @@ var movieData = [
     "plot": "Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance."
   }
 ]
-exports.movies = movieData;

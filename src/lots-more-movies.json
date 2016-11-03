@@ -1,5 +1,4 @@
-// Use LotsMoreMovies.movies to get this data in index.js
-var lotsMoreMovies = [
+[
   {
     "id": 1,
     "title": "10 Days in a Madhouse",
@@ -3355,5 +3354,4 @@ var lotsMoreMovies = [
     "poster": "https://ia.media-imdb.com/images/M/MV5BNTMzMzc4ODc1M15BMl5BanBnXkFtZTgwMTM0MTgxMTE@._V1_SX300.jpg",
     "plot": "A fun weekend turns into madness and horror for a bunch of groupies looking for fun in a beaver infested swamp."
   }
-];
-exports.movies = lotsMoreMovies;
+]
